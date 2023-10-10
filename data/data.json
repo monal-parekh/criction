@@ -1,820 +1,2458 @@
 {
     "players": [
         {
-            "formno": "1",
-            "name": "Dweep Rinku Kubadia",
-            "age": "16",
-            "phone": "7977133776",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "2",
-            "name": "Heer Trevadia",
-            "age": "16",
-            "phone": "7700930925",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "3",
-            "name": "YASH JIGNESH BHANSALI",
-            "age": "16",
-            "phone": "9821119186",
-            "role": "Bowler"
-        },
-        {
-            "formno": "4",
-            "name": "Bhavya Parag kubadia",
-            "age": "17",
-            "phone": "8591112022",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "5",
-            "name": "Heet dilip sanghavi",
-            "age": "17",
-            "phone": "9869139349",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "6",
-            "name": "Samyak Jay Bhansali",
-            "age": "17",
-            "phone": "8928454655",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "7",
-            "name": "Daksh Rushabh Kubadia",
-            "age": "18",
-            "phone": "7045487835",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "8",
-            "name": "Dravya Gandhi",
-            "age": "18",
-            "phone": "9819049593",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "9",
-            "name": "Het Hareshkumar Mehta",
-            "age": "18",
-            "phone": "8652378561",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "10",
-            "name": "Moksh Mehta",
-            "age": "18",
-            "phone": "9137531982",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "11",
-            "name": "Parth Sanghavi",
-            "age": "18",
-            "phone": "7304798345",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "12",
-            "name": "Virag Viresh Trevadia",
-            "age": "18",
-            "phone": "8591417144",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "13",
-            "name": "Kunal Mehta",
-            "age": "18",
-            "phone": "7021979257",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "14",
-            "name": "Dhaval vora",
-            "age": "19",
-            "phone": "7984571156",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "15",
-            "name": "Darshil Bhansali",
-            "age": "19",
-            "phone": "7977292776",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "16",
-            "name": "Heet Vora",
-            "age": "19",
-            "phone": "9833508337",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "17",
-            "name": "Kartik shah",
-            "age": "19",
-            "phone": "9328514680",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "18",
-            "name": "MOKSHESH ANIL MEHTA",
-            "age": "19",
-            "phone": "9653195114",
-            "role": "Bowler"
-        },
-        {
-            "formno": "19",
-            "name": "Parth bhavesh lodaria",
-            "age": "19",
-            "phone": "7045040401",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "20",
-            "name": "Punyam kubadia",
-            "age": "19",
-            "phone": "7977803217",
-            "role": "Bowler"
-        },
-        {
-            "formno": "21",
-            "name": "Saumya kakrecha",
-            "age": "19",
-            "phone": "9825234169",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "22",
-            "name": "Sneh Navin Varaiya",
-            "age": "19",
-            "phone": "8356887047",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "23",
-            "name": "Virag Mehta",
-            "age": "19",
-            "phone": "8850328983",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "24",
-            "name": "Yash alpesh mehta",
-            "age": "19",
-            "phone": "9137176228",
-            "role": "Bowler"
-        },
-        {
-            "formno": "25",
-            "name": "Jeet Sanghvi",
-            "age": "19",
-            "phone": "8369214151",
-            "role": "Bowler"
-        },
-        {
-            "formno": "26",
-            "name": "Bhavya Mehta",
-            "age": "20",
-            "phone": "9326054278",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "27",
-            "name": "Bhavya Dilip Sanghavi l",
-            "age": "21",
-            "phone": "9892853944",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "28",
-            "name": "Dhwanil Rakesh Kubadia",
-            "age": "21",
-            "phone": "9320227275",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "29",
-            "name": "Rohan Gandhi",
-            "age": "21",
-            "phone": "9819760756",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "30",
-            "name": "AYUSH YOGESH MEHTA",
-            "age": "22",
-            "phone": "8208634812",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "31",
-            "name": "Smit Kubadia",
-            "age": "22",
-            "phone": "9167641828",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "32",
-            "name": "Paras Lodaria",
-            "age": "23",
-            "phone": "8369193576",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "33",
-            "name": "Fenil Vikram Kubadia",
-            "age": "23",
-            "phone": "8879389433",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "34",
-            "name": "Bhavya Mehta",
-            "age": "24",
-            "phone": "7666928014",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "35",
-            "name": "Harsh Mehta",
-            "age": "24",
-            "phone": "9372174129",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "36",
-            "name": "Harshil Bhansali",
-            "age": "24",
-            "phone": "9820776411",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "37",
-            "name": "Jainam Kubadia",
-            "age": "24",
-            "phone": "9321185772",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "38",
-            "name": "Arpit mayur jota",
-            "age": "25",
-            "phone": "9619291955",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "39",
-            "name": "Deep Mehta",
-            "age": "25",
-            "phone": "9930570408",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "40",
-            "name": "Harsh Kakrecha",
-            "age": "25",
-            "phone": "9867477457",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "41",
-            "name": "hemant vora",
-            "age": "25",
-            "phone": "8369560491",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "42",
-            "name": "Priyank kubadia",
-            "age": "25",
-            "phone": "8097959613",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "43",
-            "name": "Yash Sanghvi",
-            "age": "25",
-            "phone": "8460124400",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "44",
-            "name": "Pankit Mehta",
-            "age": "25",
-            "phone": "8097350955",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "45",
-            "name": "Priyash Gandhi",
-            "age": "26",
-            "phone": "9769658575",
-            "role": "Bowler"
-        },
-        {
-            "formno": "46",
-            "name": "rushabh ashok sanghavi",
-            "age": "26",
-            "phone": "9867179464",
-            "role": "Bowler"
-        },
-        {
-            "formno": "47",
-            "name": "Sambhav Deepak Lodariya",
-            "age": "26",
-            "phone": "8976649790",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "48",
-            "name": "Darshan Sanghavi",
-            "age": "27",
-            "phone": "7666350128",
-            "role": "Bowler"
-        },
-        {
-            "formno": "49",
-            "name": "Kamal bhansali",
-            "age": "27",
-            "phone": "8080155999",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "50",
-            "name": "MEET MAHESH VORA",
-            "age": "27",
-            "phone": "9833508333",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "51",
-            "name": "MIHIR GADHECHA",
-            "age": "27",
-            "phone": "9840588815",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "52",
-            "name": "PRATIK BHANSALI",
-            "age": "28",
-            "phone": "9870439749",
-            "role": "Wicket - Keeper"
-        },
-        {
-            "formno": "53",
-            "name": "Yashank kubadia",
-            "age": "28",
-            "phone": "9773298536",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "54",
-            "name": "Dhairya kubadia",
-            "age": "29",
-            "phone": "7303608088",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "55",
-            "name": "Diwan Narendra Kubadia",
-            "age": "29",
-            "phone": "9821390947",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "56",
-            "name": "Hardik Kubadia",
-            "age": "29",
-            "phone": "9664893491",
-            "role": "Bowler"
-        },
-        {
-            "formno": "57",
-            "name": "Nimit Bhansali",
-            "age": "29",
-            "phone": "9322898464",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "58",
-            "name": "Nirav varaiya",
-            "age": "29",
-            "phone": "9757073412",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "59",
-            "name": "PINANK VORA",
-            "age": "29",
-            "phone": "9870741160",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "60",
-            "name": "Pratik Ashok Kubadia",
-            "age": "29",
-            "phone": "9664161479",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "61",
-            "name": "Rakshit Navinbhai Mehta",
-            "age": "29",
-            "phone": "9821459151",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "62",
-            "name": "Siddharth Jayesh Mehta",
-            "age": "29",
-            "phone": "9769119199",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "63",
-            "name": "Smit Vora",
-            "age": "29",
-            "phone": "9930392435",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "64",
-            "name": "Chintan pravin khandor",
-            "age": "30",
-            "phone": "9664836613",
-            "role": "Bowler"
-        },
-        {
-            "formno": "65",
-            "name": "Kaushal Doshi",
-            "age": "30",
-            "phone": "7016126365",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "66",
-            "name": "SAGAR KUBADIA",
-            "age": "30",
-            "phone": "9821766317",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "67",
-            "name": "Tushar Jarora",
-            "age": "30",
-            "phone": "9594702585",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "68",
-            "name": "Kunal( kumar ) gulabchand mehta",
-            "age": "31",
-            "phone": "9833374654",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "69",
-            "name": "Rahul vora",
-            "age": "31",
-            "phone": "9619329133",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "70",
-            "name": "Romil",
-            "age": "31",
-            "phone": "9833702268",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "71",
-            "name": "Vivek Gandhi",
-            "age": "31",
-            "phone": "9821175425",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "72",
-            "name": "Akshay Varaiya",
-            "age": "32",
-            "phone": "9870921089",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "73",
-            "name": "Jay hitesh vora",
-            "age": "32",
-            "phone": "9819941822",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "74",
-            "name": "Jigar kubadia",
-            "age": "32",
-            "phone": "9022365720",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "75",
-            "name": "Monal Vora",
-            "age": "32",
-            "phone": "9769315328",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "76",
-            "name": "Tejas pankaj vora",
-            "age": "32",
-            "phone": "9821557442",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "77",
-            "name": "VAIBHAV KUBADIA",
-            "age": "32",
-            "phone": "9833201096",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "78",
-            "name": "Vivek Vijay Bhansali",
-            "age": "32",
-            "phone": "9664629940",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "79",
-            "name": "Akshay Parekh",
-            "age": "33",
-            "phone": "9702630044",
-            "role": "Bowler"
-        },
-        {
-            "formno": "80",
-            "name": "Jinesh Vora",
-            "age": "33",
-            "phone": "9773719434",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "81",
-            "name": "Vijesh khandor",
-            "age": "33",
-            "phone": "9930009757",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "82",
-            "name": "Mikir Mehta",
-            "age": "33",
-            "phone": "9819004746",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "83",
-            "name": "Hiren pramod vora",
-            "age": "34",
-            "phone": "9821678176",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "84",
-            "name": "SIDDHARTH DOSHI",
-            "age": "34",
-            "phone": "9819091916",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "85",
-            "name": "Tejas Kirit Vora",
-            "age": "34",
-            "phone": "9619589303",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "86",
-            "name": "VIDISH MEHTA",
-            "age": "34",
-            "phone": "9920248390",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "87",
+            "formno": 1,
+            "Timestamp": "8/13/2023 23:33:00",
+            "name": "Abhishek Dinesh Mehta",
+            "age": 28,
+            "place": "Matunga",
+            "phone": 9619739379,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga united",
+            "Photo": "https://drive.google.com/open?id=1IbDe29E0Mf4hmKajvBjYIjeESiuJTChR"
+        }, {
+            "formno": 2,
+            "Timestamp": "8/6/2023 18:28:56",
+            "name": "akash girishbhai varaiya",
+            "age": 28,
+            "place": "Bhayander",
+            "phone": 8080080484,
+            "role": "All - Rounder",
+            "lastTeam": "debut",
+            "Photo": "https://drive.google.com/open?id=1cRDpgeEanNH7aE7uzlK0XBrMuCAFPHaY"
+        }, {
+            "formno": 3,
+            "Timestamp": "8/6/2023 18:00:52",
+            "name": "Akshat sheth",
+            "age": 18,
+            "place": "Borivali",
+            "phone": 9137212242,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga smashers",
+            "Photo": "https://drive.google.com/open?id=1zdnKTjyQnoZpHg5qbgjbddXcZBzwqSIz"
+        }, {
+            "formno": 4,
+            "Timestamp": "8/6/2023 21:00:35",
+            "name": "Akshat Vora",
+            "age": 21,
+            "place": "Ghatkopar",
+            "phone": 9326385589,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Kings",
+            "Photo": "https://drive.google.com/open?id=1jEb16o7aLaHkbkd9Y_mP7lpuCOha0q4q"
+        }, {
+            "formno": 5,
+            "Timestamp": "8/7/2023 16:16:38",
+            "name": "Akshay Bimal Vora",
+            "age": 31,
+            "place": "Mulund",
+            "phone": 9867403846,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1SepwcxOo4cawiSpTvUtM9zPyH30tGyAZ"
+        }, {
+            "formno": 6,
+            "Timestamp": "8/6/2023 17:55:47",
+            "name": "Akshay kubadia",
+            "age": 27,
+            "place": "Malad",
+            "phone": 9768342558,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1qrX2ztXmQ86mV0RjJFMoXWUkWDDLThk1"
+        }, {
+            "formno": 7,
+            "Timestamp": "8/7/2023 12:38:58",
             "name": "Akshay Rajesh Khandor",
-            "age": "35",
-            "phone": "7738219997",
-            "role": "Bowler"
-        },
-        {
-            "formno": "88",
-            "name": "Bhavin vora",
-            "age": "35",
-            "phone": "9920745229",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "89",
-            "name": "Bhavin dilip mehta",
-            "age": "35",
-            "phone": "9820928075",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "90",
-            "name": "Rushabh jarora",
-            "age": "35",
-            "phone": "9757401050",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "91",
-            "name": "Mitesh Mehta",
-            "age": "36",
-            "phone": "9323454797",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "92",
-            "name": "Prashant Vora",
-            "age": "36",
-            "phone": "9769804619",
-            "role": "Bowler"
-        },
-        {
-            "formno": "93",
-            "name": "VIRAL ANIL TREVADIA",
-            "age": "36",
-            "phone": "9869507396",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "94",
-            "name": "Brijesh vora",
-            "age": "37",
-            "phone": "9870284853",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "95",
-            "name": "Ankur mehta",
-            "age": "37",
-            "phone": "9820243413",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "96",
-            "name": "Viral kubadia",
-            "age": "37",
-            "phone": "9867855985",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "97",
-            "name": "Hardik hiralal vora",
-            "age": "38",
-            "phone": "9869626028",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "98",
-            "name": "Prajay Bhansali",
-            "age": "38",
-            "phone": "9821182211",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "99",
-            "name": "Rupesh Ashwin Vora",
-            "age": "38",
-            "phone": "9321583043",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "100",
-            "name": "Vaibhav kubadia",
-            "age": "38",
-            "phone": "9619167113",
-            "role": "Bowler"
-        },
-        {
-            "formno": "101",
+            "age": 37,
+            "place": "Dadar",
+            "phone": 7738219997,
+            "role": "Batsman",
+            "lastTeam": "Abhinandan Avengers",
+            "Photo": "https://drive.google.com/open?id=1yH0vzKcItBWeIbl1DKYx-duBykSUtNJg"
+        }, {
+            "formno": 8,
+            "Timestamp": "8/7/2023 12:45:03",
+            "name": "Akshay Uajain Varaiya",
+            "age": 34,
+            "place": "Dadar",
+            "phone": 9870921089,
+            "role": "All - Rounder",
+            "lastTeam": "Abhinandan Avenger",
+            "Photo": "https://drive.google.com/open?id=1arpc8JGS8lP8o_rwrNEa4lupQNMMn2l5"
+        }, {
+            "formno": 9,
+            "Timestamp": "8/5/2023 19:53:25",
+            "name": "Akshay Vora",
+            "age": 34,
+            "place": "Chunabhatti",
+            "phone": 9867807333,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1xDHgvWkPm0YG5XNDc4hA9bB78t1bsk34"
+        }, {
+            "formno": 10,
+            "Timestamp": "8/15/2023 19:16:06",
+            "name": "Akshet Vadilal Mehta",
+            "age": 28,
+            "place": "CHUNABHATTI",
+            "phone": 8097764848,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1uirVuLegnUcuU9-4YyNG3sK6KE7RGtam"
+        }, {
+            "formno": 11,
+            "Timestamp": "8/6/2023 18:03:05",
+            "name": "Amit m kothari",
+            "age": 35,
+            "place": "GHATKOPAR",
+            "phone": 9619060333,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar turtles",
+            "Photo": "https://drive.google.com/open?id=1xUXoVoOlXh2jTMXOGeRQaE6tvtUcKN59"
+        }, {
+            "formno": 12,
+            "Timestamp": "8/7/2023 12:36:56",
+            "name": "Ankit Bhogilal Kubadia",
+            "age": 38,
+            "place": "Dadar-west",
+            "phone": 9819662777,
+            "role": "Batsman",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1Pjjd0zJygfFBkwS-rZlzkBg3Er37Fu7I"
+        }, {
+            "formno": 13,
+            "Timestamp": "8/6/2023 18:08:35",
+            "name": "Ankit suresh mehta",
+            "age": 31,
+            "place": "Malad",
+            "phone": 9773090196,
+            "role": "All - Rounder",
+            "lastTeam": "Marvelous Malad/Sanghavi smashers",
+            "Photo": "https://drive.google.com/open?id=10pn2c2OrfC00CZ29sOAyWFfxVmIEv5Eu"
+        }, {
+            "formno": 14,
+            "Timestamp": "8/6/2023 20:33:57",
+            "name": "Ansh Harshad Zota",
+            "age": 20,
+            "place": "Ghatkopar",
+            "phone": 9137399139,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=1_UybtrLRA8oKsl-1PzonJlrtOgZoSB2H"
+        }, {
+            "formno": 15,
+            "Timestamp": "8/6/2023 17:58:25",
+            "name": "Arpit mayur jota",
+            "age": 25,
+            "place": "Dadar",
+            "phone": 9619291955,
+            "role": "Batsman",
+            "lastTeam": "Dadar blues",
+            "Photo": "https://drive.google.com/open?id=1-IGSz4bioDaAHjZukt4JrTTF6Eq13m_v"
+        }, {
+            "formno": 16,
+            "Timestamp": "8/8/2023 16:31:43",
+            "name": "Ary Sanghavi",
+            "age": 20,
+            "place": "Malad",
+            "phone": 6353447740,
+            "role": "All - Rounder",
+            "lastTeam": "Malad youngster",
+            "Photo": "https://drive.google.com/open?id=1f5CggQCovG4B2yyHYMCJYNsSBEOLtCJ6"
+        }, {
+            "formno": 17,
+            "Timestamp": "8/15/2023 18:33:18",
+            "name": "Ayush Mehta",
+            "age": 21,
+            "place": "Andheri",
+            "phone": 7977164738,
+            "role": "All - Rounder",
+            "lastTeam": "Success 11",
+            "Photo": "https://drive.google.com/open?id=1q4mSee99JnyLdsrkUcIW4XxgA2jv5VhL"
+        }, {
+            "formno": 18,
+            "Timestamp": "8/6/2023 23:04:10",
+            "name": "Bhavesh chandulal sanghavi",
+            "age": 39,
+            "place": "Ghatkopar",
+            "phone": 9819010163,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar turtles",
+            "Photo": "https://drive.google.com/open?id=1AC-RU7ZKHbs4mlQPye93S25rLIfecVsv"
+        }, {
+            "formno": 19,
+            "Timestamp": "8/7/2023 12:18:12",
+            "name": "Bhavesh mehta",
+            "age": 37,
+            "place": "Dadar",
+            "phone": 9833823512,
+            "role": "Bowler",
+            "lastTeam": "Sanghvi smesar",
+            "Photo": "https://drive.google.com/open?id=1BF4Dya4KTYB2DTFt1a9WrAdyMybwfIYW"
+        }, {
+            "formno": 20,
+            "Timestamp": "8/6/2023 20:46:26",
+            "name": "Bhavik kamlesh sanghvi",
+            "age": 28,
+            "place": "Dadar",
+            "phone": 8879290965,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar blues",
+            "Photo": "https://drive.google.com/open?id=15WSPcLICMsLmjGiDpCOEzt9OLhgsCLYR"
+        }, {
+            "formno": 21,
+            "Timestamp": "8/6/2023 18:09:21",
             "name": "Bhavik Mehta",
-            "age": "39",
-            "phone": "9323408022",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "102",
-            "name": "NIMIT MEHTA",
-            "age": "39",
-            "phone": "9833130123",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "103",
-            "name": "Abhijeet Trevadia",
-            "age": "39",
-            "phone": "9223182070",
-            "role": "Bowler"
-        },
-        {
-            "formno": "104",
-            "name": "Abhay Mehta",
-            "age": "39",
-            "phone": "9892221645",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "105",
-            "name": "Chirag K Mehta",
-            "age": "40",
-            "phone": "9819143214",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "106",
-            "name": "RINKU KUBADIA",
-            "age": "41",
-            "phone": "9821714133",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "107",
+            "age": 39,
+            "place": "Dadar",
+            "phone": 9323408022,
+            "role": "Bowler",
+            "lastTeam": "Panicky Tigers",
+            "Photo": "https://drive.google.com/open?id=1k_JyVDCq1h5AZ1dAjrUZ-QQoo0SYGO8V"
+        }, {
+            "formno": 22,
+            "Timestamp": "8/15/2023 18:52:29",
+            "name": "Bhavin Dilip Mehta",
+            "age": 36,
+            "place": "Dadar",
+            "phone": 9820928075,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1e6T8PhFuF6qY2pmvGgAceZjyFR1sNcSK"
+        }, {
+            "formno": 23,
+            "Timestamp": "8/6/2023 18:31:57",
+            "name": "Bhavin Harshad Vora",
+            "age": 36,
+            "place": "Dadar",
+            "phone": 9920745229,
+            "role": "Batsman",
+            "lastTeam": "DADAR WARRIORS",
+            "Photo": "https://drive.google.com/open?id=10sIGEwVlRKyLil2mZDi8qMb4Hgg56Fq4"
+        }, {
+            "formno": 24,
+            "Timestamp": "8/6/2023 17:55:50",
+            "name": "Bhavin kantilal sanghvi",
+            "age": 32,
+            "place": "Ghatkopar",
+            "phone": 9029983119,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga smashers",
+            "Photo": "https://drive.google.com/open?id=1etPnhzFj5eRfqAw_lS2zvsDlU-P7s4FB"
+        }, {
+            "formno": 25,
+            "Timestamp": "8/7/2023 13:22:29",
+            "name": "Bhavin suresh Trevadia",
+            "age": 36,
+            "place": "Dadar",
+            "phone": 9594567000,
+            "role": "All - Rounder",
+            "lastTeam": "2022 dadar Royals",
+            "Photo": "https://drive.google.com/open?id=1dNVqvHFb8APd2k8IHxKQXP6tXNhALQUr"
+        }, {
+            "formno": 26,
+            "Timestamp": "8/6/2023 18:28:53",
+            "name": "Bhavin.s.sheth",
+            "age": 37,
+            "place": "Borivali",
+            "phone": 9773129929,
+            "role": "Batsman",
+            "lastTeam": "Matunga united",
+            "Photo": "https://drive.google.com/open?id=1OsWHEVFJSVKoqVAzLifR4O8lbI6j1arS"
+        }, {
+            "formno": 27,
+            "Timestamp": "8/6/2023 23:46:52",
+            "name": "Bhavya Gandhi",
+            "age": 23,
+            "place": "Dadar",
+            "phone": 8898398468,
+            "role": "Batsman",
+            "lastTeam": "Dombivali Youngsters",
+            "Photo": "https://drive.google.com/open?id=1oQnmB5QJOp005KVxD6_Dbd1Wmqq8Vvr0"
+        }, {
+            "formno": 28,
+            "Timestamp": "8/6/2023 18:04:12",
+            "name": "Bhavya Mehta",
+            "age": 24,
+            "place": "Dadar",
+            "phone": 7666928014,
+            "role": "Batsman",
+            "lastTeam": "DADAR BLUES",
+            "Photo": "https://drive.google.com/open?id=1wnJqguLD0CBZOffdRHGxj0H14p-xXbI5"
+        }, {
+            "formno": 29,
+            "Timestamp": "8/6/2023 18:11:02",
+            "name": "Bhavya Mehta",
+            "age": 20,
+            "place": "Matunga",
+            "phone": 9326054278,
+            "role": "Batsman",
+            "lastTeam": "Panicky Tigers",
+            "Photo": "https://drive.google.com/open?id=1z2oG21pElBzmSVDjQ9FlnBm_eUFkxjcu"
+        }, {
+            "formno": 30,
+            "Timestamp": "8/6/2023 18:07:51",
+            "name": "Bhavya Prakash Vora",
+            "age": 20,
+            "place": "Mulund",
+            "phone": 7304812400,
+            "role": "All - Rounder",
+            "lastTeam": "Mulund Indians",
+            "Photo": "https://drive.google.com/open?id=1BVRCWjGd_6MTk8JSOTnoGC-nE3zQDVCt"
+        }, {
+            "formno": 31,
+            "Timestamp": "8/6/2023 18:07:55",
+            "name": "Bhupen Mehta",
+            "age": 41,
+            "place": "Dadar",
+            "phone": 9320031284,
+            "role": "Bowler",
+            "lastTeam": "Panicky Tigers",
+            "Photo": "https://drive.google.com/open?id=1fwsa84U2HEgY9pUitXAQYkJqNFcK_7dd"
+        }, {
+            "formno": 32,
+            "Timestamp": "8/7/2023 14:59:30",
+            "name": "Brijesh V vora",
+            "age": 38,
+            "place": "Dadar",
+            "phone": 9870284853,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar blues",
+            "Photo": "https://drive.google.com/open?id=1teSn8eLWhl3gkTmbdSQhOd9fzp3ybBil"
+        }, {
+            "formno": 33,
+            "Timestamp": "8/6/2023 18:24:30",
+            "name": "Chintan hasmukhbhai masaliya",
+            "age": 34,
+            "place": "Dadar",
+            "phone": 9825930154,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1VwtYV4eba07xopsFy9m-0vB-mMJpHaFR"
+        }, {
+            "formno": 34,
+            "Timestamp": "8/6/2023 22:03:19",
+            "name": "Dakshesh masaliya",
+            "age": 29,
+            "place": "Ghatkoper",
+            "phone": 9820810077,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Concept capital",
+            "Photo": "https://drive.google.com/open?id=17CmQ2__d7Tq4x3dCRwkp_YuedLrn_V5z"
+        }, {
+            "formno": 35,
+            "Timestamp": "8/6/2023 21:02:18",
+            "name": "Darpan vadilal parekh",
+            "age": 25,
+            "place": "Bhandup",
+            "phone": 9768957405,
+            "role": "Batsman",
+            "lastTeam": "Diana",
+            "Photo": "https://drive.google.com/open?id=1X4vYhsn1OjnaBsyluswANDNYKoiopYFl"
+        }, {
+            "formno": 36,
+            "Timestamp": "8/17/2023 18:23:36",
+            "name": "Darshan Anopchand Sheth",
+            "age": 19,
+            "place": "Dadar",
+            "phone": 6351931764,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1Ex_cHfMJ-akEtir21k8Fd6hNuVmkBWA6"
+        }, {
+            "formno": 37,
+            "Timestamp": "8/6/2023 20:42:21",
+            "name": "Darshan Lodariya",
+            "age": 31,
+            "place": "Dadar",
+            "phone": 9833220079,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga smashers",
+            "Photo": "https://drive.google.com/open?id=1dK_BSmQzBdxT_JxklRxYvftuI2J17f_4"
+        }, {
+            "formno": 38,
+            "Timestamp": "8/6/2023 22:02:03",
+            "name": "Darshan masaliya",
+            "age": 31,
+            "place": "Ghatkoper",
+            "phone": 9769962866,
+            "role": "All - Rounder",
+            "lastTeam": "Dianamic Diana",
+            "Photo": "https://drive.google.com/open?id=1Nlq2S2F3uC5MGDBWM5Ufu-t9IxMT1d8s"
+        }, {
+            "formno": 39,
+            "Timestamp": "8/7/2023 14:16:27",
+            "name": "Darshan S patwa",
+            "age": 29,
+            "place": "Ghatkopar",
+            "phone": 9920541108,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga Smashers",
+            "Photo": "https://drive.google.com/open?id=15g19YfhjmzYh24jbor0naHdL0zcyiV6o"
+        }, {
+            "formno": 40,
+            "Timestamp": "8/6/2023 19:00:14",
+            "name": "Darshan Sanghavi",
+            "age": 27,
+            "place": "Dadar",
+            "phone": 7666350128,
+            "role": "Bowler",
+            "lastTeam": "Dadar Decent",
+            "Photo": "https://drive.google.com/open?id=1A4e1oOrvso69tIs_CgsU37CyNyNmKHRn"
+        }, {
+            "formno": 41,
+            "Timestamp": "8/17/2023 18:35:09",
+            "name": "Darshil Kaushik Bhanshali",
+            "age": 20,
+            "place": "Dadar",
+            "phone": 7977292776,
+            "role": "Batsman",
+            "lastTeam": "Dadar Warriors",
+            "Photo": "https://drive.google.com/open?id=1IF3kuEbIFNAXJj2FWYdDHgwJ6pqXsrsL"
+        }, {
+            "formno": 42,
+            "Timestamp": "8/7/2023 12:31:36",
+            "name": "Deep mehta",
+            "age": 26,
+            "place": "Andheri marol",
+            "phone": 8879828586,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1X-bpql1XgL3ULkpZCicfrarLQH7WteoX"
+        }, {
+            "formno": 43,
+            "Timestamp": "8/13/2023 21:52:34",
+            "name": "Deep Sanghavi",
+            "age": 18,
+            "place": "Ghatkopar",
+            "phone": 8779169371,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1apLXiFna1tuKD-gjxEfqQLgevxPPAQ-J"
+        }, {
+            "formno": 44,
+            "Timestamp": "8/6/2023 18:02:21",
+            "name": "Deepesh Chandrakant Kubadiya",
+            "age": 21,
+            "place": "Malad",
+            "phone": 7900100793,
+            "role": "Batsman",
+            "lastTeam": "Malad YoungStars",
+            "Photo": "https://drive.google.com/open?id=1ivAO58JYRd93upMvKrbuqhoIKitatZTa"
+        }, {
+            "formno": 45,
+            "Timestamp": "8/6/2023 21:21:47",
+            "name": "Dev jayantilal sheth",
+            "age": 18,
+            "place": "Dadar",
+            "phone": 8356014632,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1onwyUN-026vmUaQDkJcT4KBcqZw5guno"
+        }, {
+            "formno": 46,
+            "Timestamp": "8/6/2023 18:58:14",
+            "name": "Dev Rohit Vora",
+            "age": 16,
+            "place": "Dadar",
+            "phone": 9833863087,
+            "role": "Bowler",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1ALDGCgqJQsPQbJPopk_vFYsmKpMNw2xV"
+        }, {
+            "formno": 47,
+            "Timestamp": "8/15/2023 15:59:21",
+            "name": "DEVANG RATILAL GANDHI",
+            "age": 33,
+            "place": "Dombivali",
+            "phone": 9892558549,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Glorious",
+            "Photo": "https://drive.google.com/open?id=1WqjEcm65AxxbIhEhQLQgTJorIkbUrUu3"
+        }, {
+            "formno": 48,
+            "Timestamp": "8/6/2023 18:31:13",
+            "name": "Devansh Mehta",
+            "age": 16,
+            "place": "Dadar",
+            "phone": 7021263743,
+            "role": "Bowler",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1OPpT-P6MME7cvrGxpFn4UWPleFILzypV"
+        }, {
+            "formno": 49,
+            "Timestamp": "8/7/2023 12:32:31",
+            "name": "Dhairya Mehta",
+            "age": 21,
+            "place": "Andheri marol",
+            "phone": 7977567690,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1ncDel7Qh1yuo2EARzzXX1qnGc602cKP3"
+        }, {
+            "formno": 50,
+            "Timestamp": "8/6/2023 22:05:47",
+            "name": "Dharmil Pravinbhai Mehta",
+            "age": 25,
+            "place": "Dadar",
+            "phone": 8141430434,
+            "role": "Batsman",
+            "lastTeam": "Red rose destroyers",
+            "Photo": "https://drive.google.com/open?id=14Qp2YEXfYSqvRxXIr16zEXAkIGM3l3OX"
+        }, {
+            "formno": 51,
+            "Timestamp": "8/6/2023 17:54:17",
+            "name": "Dhaval vora",
+            "age": 20,
+            "place": "Dadar",
+            "phone": 7984571156,
+            "role": "Batsman",
+            "lastTeam": "Dadar",
+            "Photo": "https://drive.google.com/open?id=1RB1gIiH8gmVr2RYtULrtrehpWb01k5sB"
+        }, {
+            "formno": 52,
+            "Timestamp": "8/6/2023 19:34:07",
+            "name": "Dhruv Deepak kubadia",
+            "age": 22,
+            "place": "Malad",
+            "phone": 9082182650,
+            "role": "All - Rounder",
+            "lastTeam": "Kings Xl malad",
+            "Photo": "https://drive.google.com/open?id=1wsaNBxHllLVffNsz613nm3eshhOMI2bW"
+        }, {
+            "formno": 53,
+            "Timestamp": "8/7/2023 15:19:49",
+            "name": "Dhruvil Pramod Sanghavi",
+            "age": 24,
+            "place": "Mulund",
+            "phone": 9022966641,
+            "role": "Batsman",
+            "lastTeam": "Titanic pirates",
+            "Photo": "https://drive.google.com/open?id=1T2ofy45lfRagOs1ZKOmBeJrjUmoatNBO"
+        }, {
+            "formno": 54,
+            "Timestamp": "8/6/2023 17:52:15",
             "name": "Dipesh Kubadia",
-            "age": "42",
-            "phone": "9820308557",
-            "role": "Batsmen"
-        },
-        {
-            "formno": "108",
-            "name": "Mehul Kubadia",
-            "age": "44",
-            "phone": "9323997014",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "109",
-            "name": "Kaushik Bhansali",
-            "age": "44",
-            "phone": "9004194390",
-            "role": "All - Rounder"
-        },
-        {
-            "formno": "110",
-            "name": "Nitin Sheth",
-            "age": "55",
-            "phone": "9820170972",
-            "role": "All - Rounder"
+            "age": 43,
+            "place": "Dadar",
+            "phone": 9920308557,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar blue",
+            "Photo": "https://drive.google.com/open?id=1oHxbbb9IW8JTMqgkg9z2Tnfv0Oc9klYg"
+        }, {
+            "formno": 55,
+            "Timestamp": "8/15/2023 20:03:49",
+            "name": "Dipesh Mahendra sanghavi",
+            "age": 31,
+            "place": "Ghatkopar",
+            "phone": 9821638870,
+            "role": "Batsman",
+            "lastTeam": "Abhinandan avenger",
+            "Photo": "https://drive.google.com/open?id=1snBPRmF6yx4j8eVbduvgn9--rvm7JH8_"
+        }, {
+            "formno": 56,
+            "Timestamp": "8/7/2023 12:47:21",
+            "name": "Dipesh Navinchandra Khandor",
+            "age": 36,
+            "place": "Matunga west",
+            "phone": 9892952719,
+            "role": "Batsman",
+            "lastTeam": "Matunga shameshar",
+            "Photo": "https://drive.google.com/open?id=10HsqJqxSkYUFnmw8A4C8mguunRbnIEIP"
+        }, {
+            "formno": 57,
+            "Timestamp": "8/6/2023 17:54:13",
+            "name": "Divyam Amit Trevadia",
+            "age": 17,
+            "place": "Ghatkopar",
+            "phone": 9321679843,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar turtles",
+            "Photo": "https://drive.google.com/open?id=1BjHheLK78BvQCYNcSP9pgDwjXqAF8Y4c"
+        }, {
+            "formno": 58,
+            "Timestamp": "8/6/2023 18:16:17",
+            "name": "Diwan Narendra kubadia",
+            "age": 29,
+            "place": "Dadar",
+            "phone": 9821390947,
+            "role": "Batsman",
+            "lastTeam": "Dadar warriors",
+            "Photo": "https://drive.google.com/open?id=10mxApMufwKFFpJf3WMj8zwvIe6O0eakD"
+        }, {
+            "formno": 59,
+            "Timestamp": "8/6/2023 21:15:51",
+            "name": "Diyan Dinesh Gandhi",
+            "age": 17,
+            "place": "Malad",
+            "phone": 9820616984,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1goy0SR9pVIM5bCjVBQsNxx4vb6ymExtO"
+        }, {
+            "formno": 60,
+            "Timestamp": "8/6/2023 19:33:15",
+            "name": "diyan bhansali",
+            "age": 17,
+            "place": "Dadar",
+            "phone": 7977642251,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1x1CIkqG19Ao8NHrbUrMp-OGnXQWTC8RF"
+        }, {
+            "formno": 61,
+            "Timestamp": "8/7/2023 15:58:59",
+            "name": "Dweep rinku Kubadia",
+            "age": 17,
+            "place": "Dadar",
+            "phone": 7977133776,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1eiWRzW5buZSb8GSone1Pf_LoJEvLHTE7"
+        }, {
+            "formno": 62,
+            "Timestamp": "8/6/2023 18:24:49",
+            "name": "Hardik Gandhi",
+            "age": 32,
+            "place": "Dadar",
+            "phone": 9967893879,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1tvo3Kbmk0Qal9FGac-0kNHEem19Xh0Vz"
+        }, {
+            "formno": 63,
+            "Timestamp": "8/7/2023 12:46:27",
+            "name": "Hardik Hiralal Vora",
+            "age": 38,
+            "place": "Dadar",
+            "phone": 9869626028,
+            "role": "Batsman",
+            "lastTeam": "Matunga express",
+            "Photo": "https://drive.google.com/open?id=1z7P_ze-mnlHcYXTE_pzuBSvBlD7AlDW0"
+        }, {
+            "formno": 64,
+            "Timestamp": "8/6/2023 21:58:54",
+            "name": "Haresh parekh",
+            "age": 34,
+            "place": "Malad",
+            "phone": 9870456706,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1RkCDS--hl1nLvEwYEsvFRPRrWUMA5G7G"
+        }, {
+            "formno": 65,
+            "Timestamp": "8/21/2023 19:54:23",
+            "name": "Harsh Ajitbhai Kubadia",
+            "age": 21,
+            "place": "Dombivali",
+            "phone": 9004176123,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar glorious",
+            "Photo": "https://drive.google.com/open?id=1401VscsqPmQP1bvpLZS5p-3YiWuDB-nc"
+        }, {
+            "formno": 66,
+            "Timestamp": "8/6/2023 18:38:07",
+            "name": "Harsh Deepak Kakrecha",
+            "age": 25,
+            "place": "Matunga, Dadar",
+            "phone": 9867477457,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1VK8mic6LdBGXtYa589r91hBGSoovsqDc"
+        }, {
+            "formno": 67,
+            "Timestamp": "8/9/2023 19:42:51",
+            "name": "Harsh Doshi",
+            "age": 28,
+            "place": "Goregaon",
+            "phone": 9769893358,
+            "role": "All - Rounder",
+            "lastTeam": "Malad Strikers",
+            "Photo": "https://drive.google.com/open?id=1-7o5Kh837UEMlIwMLobge54_gjlH8yMI"
+        }, {
+            "formno": 68,
+            "Timestamp": "8/6/2023 18:29:44",
+            "name": "Harsh hasmukh Mehta",
+            "age": 25,
+            "place": "Matunga road",
+            "phone": 9372174129,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti champions",
+            "Photo": "https://drive.google.com/open?id=1JJ4nj-x8Klh-2VtkoyR_NE_SMV7hhcE3"
+        }, {
+            "formno": 69,
+            "Timestamp": "8/6/2023 18:39:32",
+            "name": "Harsh Manoj Shah",
+            "age": 24,
+            "place": "Malad",
+            "phone": 9967673083,
+            "role": "Batsman",
+            "lastTeam": "Malad YoungStars",
+            "Photo": "https://drive.google.com/open?id=1NqihWck6_J1pmx406GC7PLdDdGgLEQvk"
+        }, {
+            "formno": 70,
+            "Timestamp": "8/7/2023 12:17:08",
+            "name": "Harsh Parekh",
+            "age": 25,
+            "place": "Ghatkopar",
+            "phone": 8424825185,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=1ZhLxxCP9zqnzktp3KT-0I4PZy5HJRBto"
+        }, {
+            "formno": 71,
+            "Timestamp": "8/6/2023 19:00:49",
+            "name": "Harsh Sachin Mehta",
+            "age": 20,
+            "place": "Ghatkopar",
+            "phone": 7678067316,
+            "role": "Batsman",
+            "lastTeam": "Skillup Falcons",
+            "Photo": "https://drive.google.com/open?id=1zhWQVR23R5nhynvJOP4zytc4bnpUtpyj"
+        }, {
+            "formno": 72,
+            "Timestamp": "8/6/2023 18:23:38",
+            "name": "Harsh sanjaybhai motharia",
+            "age": 26,
+            "place": "Bhaynder west",
+            "phone": 7874258783,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1IkcmauqjqOso3cYGVdEOU1LpM0C6zTW6"
+        }, {
+            "formno": 73,
+            "Timestamp": "8/6/2023 19:04:51",
+            "name": "Harsh Sheth",
+            "age": 24,
+            "place": "Matunga",
+            "phone": 9870797059,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga United",
+            "Photo": "https://drive.google.com/open?id=15o8f9ZPVX0Ci-WKWb1JPfIQJNJIhk0WC"
+        }, {
+            "formno": 74,
+            "Timestamp": "8/6/2023 20:29:49",
+            "name": "Harshal Sheth",
+            "age": 18,
+            "place": "Dadar",
+            "phone": 9653499059,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=11oXsF_eh-lNwa4L5-Do1Rt2fojqcE6FW"
+        }, {
+            "formno": 75,
+            "Timestamp": "8/11/2023 14:40:42",
+            "name": "Harshil Shailesh Bhansali",
+            "age": 24,
+            "place": "Dadar",
+            "phone": 9820776411,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1hD4_ZRhiy8tI91gB3Pr2aTwu8TqF-E9X"
+        }, {
+            "formno": 76,
+            "Timestamp": "8/6/2023 17:57:59",
+            "name": "Harshit Alpesh Mehta",
+            "age": 15,
+            "place": "Dadar",
+            "phone": 9137116687,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1yWsG-Guq0FAnSga2Ujlv3jLW5Hro5dKX"
+        }, {
+            "formno": 77,
+            "Timestamp": "8/6/2023 18:05:59",
+            "name": "Heer Tushar Trevadia",
+            "age": 17,
+            "place": "Dadar",
+            "phone": 7700930925,
+            "role": "Bowler",
+            "lastTeam": "Malad Youngstars",
+            "Photo": "https://drive.google.com/open?id=1zeO_g2eEswYyxq0P5USXY1UYCqqHZ7Xc"
+        }, {
+            "formno": 78,
+            "Timestamp": "8/6/2023 19:59:02",
+            "name": "Heet dilip sanghavi",
+            "age": 17,
+            "place": "Dadar",
+            "phone": 9869139349,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=10FCUzeV3hy9ZDhGwBe9vf7ck8y6G4JKQ"
+        }, {
+            "formno": 79,
+            "Timestamp": "8/6/2023 18:07:41",
+            "name": "Heyt kubadia",
+            "age": 19,
+            "place": "Bhayander",
+            "phone": 9773339196,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1QHaVAeffCwtM1AiWsXcmYYX2n6Sya6jI"
+        }, {
+            "formno": 80,
+            "Timestamp": "8/7/2023 14:53:19",
+            "name": "HIMANSHU TREVADIYA",
+            "age": 36,
+            "place": "Malad",
+            "phone": 9870296932,
+            "role": "All - Rounder",
+            "lastTeam": "Marvellous malad",
+            "Photo": "https://drive.google.com/open?id=1_6lmgpidLt4NQ-P7kRCUqyWyfvqNAe-s"
+        }, {
+            "formno": 81,
+            "Timestamp": "8/6/2023 17:51:16",
+            "name": "Hir Dilip Kubadia",
+            "age": 18,
+            "place": "Malad",
+            "phone": 9702204582,
+            "role": "Bowler",
+            "lastTeam": "Malad Youngstars",
+            "Photo": "https://drive.google.com/open?id=1Ql4RU03GlvwcUyke5yTZPFC-N0XUQ2_l"
+        }, {
+            "formno": 82,
+            "Timestamp": "8/6/2023 19:59:25",
+            "name": "Hiren indravadan bhai gandhi",
+            "age": 29,
+            "place": "Dadar",
+            "phone": 7303707101,
+            "role": "All - Rounder",
+            "lastTeam": "Concept capital",
+            "Photo": "https://drive.google.com/open?id=1BB558K5yIAwcSlSUEskaC5DVpQOQyHH_"
+        }, {
+            "formno": 83,
+            "Timestamp": "8/7/2023 14:38:06",
+            "name": "HIREN MAHENDRA KUMAR TREVADIA",
+            "age": 33,
+            "place": "MALAD",
+            "phone": 9167195680,
+            "role": "All - Rounder",
+            "lastTeam": "MALAD STRIKERS",
+            "Photo": "https://drive.google.com/open?id=10InS4t6QmXNX3uTz8AMKUrZU-GQ50Ec1"
+        }, {
+            "formno": 84,
+            "Timestamp": "8/12/2023 23:14:22",
+            "name": "Hiren mohanlal khandor",
+            "age": 38,
+            "place": "Ghatkoar",
+            "phone": 9322156056,
+            "role": "Bowler",
+            "lastTeam": "Abhinadan avengar",
+            "Photo": "https://drive.google.com/open?id=1TMqNa8C9b4g6mltvDcZWbNXxo5w6WXKu"
+        }, {
+            "formno": 85,
+            "Timestamp": "8/15/2023 18:24:51",
+            "name": "Hitesh P Motharia",
+            "age": 42,
+            "place": "Bhayander",
+            "phone": 9320622254,
+            "role": "All - Rounder",
+            "lastTeam": "Dream Crushers",
+            "Photo": "https://drive.google.com/open?id=1D7xJ3k1teLBBChdaPZTALFy8VT0ufEZA"
+        }, {
+            "formno": 86,
+            "Timestamp": "8/6/2023 19:27:23",
+            "name": "Hitghan HARESH VORA",
+            "age": 19,
+            "place": "Bhayandar",
+            "phone": 8356087746,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1X15WMpnHbX5fSvbNoM3Z6qDUeRcI_0_h"
+        }, {
+            "formno": 87,
+            "Timestamp": "8/9/2023 11:06:30",
+            "name": "Jainam kubadia",
+            "age": 25,
+            "place": "Dadar",
+            "phone": 9321185772,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar blues",
+            "Photo": "https://drive.google.com/open?id=1WFxLoV2It79kQiu8wuF32ZqpffdEfgTV"
+        }, {
+            "formno": 88,
+            "Timestamp": "8/6/2023 18:11:19",
+            "name": "Jainesh Kubadia",
+            "age": 27,
+            "place": "Malad",
+            "phone": 9967981880,
+            "role": "All - Rounder",
+            "lastTeam": "Knight Riders",
+            "Photo": "https://drive.google.com/open?id=1Sz-6E_Z1ZG85k_NheFK7drt0YwZ3_2mT"
+        }, {
+            "formno": 89,
+            "Timestamp": "8/6/2023 18:18:13",
+            "name": "Jaldeep Navinkumar Patwa",
+            "age": 32,
+            "place": "Jogeshwari",
+            "phone": 9029069432,
+            "role": "All - Rounder",
+            "lastTeam": "Malad Strikers",
+            "Photo": "https://drive.google.com/open?id=1VXE0trkW7PKdUcMOvzoL2KO6e9118xNw"
+        }, {
+            "formno": 90,
+            "Timestamp": "8/7/2023 13:09:44",
+            "name": "Jatin Pravinbhai Kubadia",
+            "age": 40,
+            "place": "Dadar",
+            "phone": 9323975979,
+            "role": "Bowler",
+            "lastTeam": "Dadar Warriors",
+            "Photo": "https://drive.google.com/open?id=1bJJ4ZWa_RrV0yyGJT2Zz0zNJdZ_aSCAL"
+        }, {
+            "formno": 91,
+            "Timestamp": "8/6/2023 18:34:08",
+            "name": "Jay hitesh vora",
+            "age": 32,
+            "place": "Dadar",
+            "phone": 9819941822,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar Blues",
+            "Photo": "https://drive.google.com/open?id=1KdruM7UHnYlc74w-Z_VoOJK47HQmW7Uj"
+        }, {
+            "formno": 92,
+            "Timestamp": "8/6/2023 18:37:56",
+            "name": "Jay Jayantibhai Mehta",
+            "age": 40,
+            "place": "Mulund West",
+            "phone": 9819823666,
+            "role": "All - Rounder",
+            "lastTeam": "Mulund Team",
+            "Photo": "https://drive.google.com/open?id=1E6hooOVIhc2e13bDwmCIwuO-dthmx4fp"
+        }, {
+            "formno": 93,
+            "Timestamp": "8/7/2023 13:20:24",
+            "name": "Jay Mehta",
+            "age": 23,
+            "place": "Ghatkopar",
+            "phone": 9029985440,
+            "role": "All - Rounder",
+            "lastTeam": "Titanic pirates",
+            "Photo": "https://drive.google.com/open?id=1D-7RnHxf7GQZxPD8S7dnh5AiWDLnRzD-"
+        }, {
+            "formno": 94,
+            "Timestamp": "8/6/2023 21:12:23",
+            "name": "JAYESH  JAYANTI BHAI GANDHI",
+            "age": 32,
+            "place": "Malad",
+            "phone": 9833754854,
+            "role": "All - Rounder",
+            "lastTeam": "MARVELLOUS MALAD",
+            "Photo": "https://drive.google.com/open?id=11fB_ndjHQuAiqnaM19j_TmBPw7jNQ5jD"
+        }, {
+            "formno": 95,
+            "Timestamp": "8/7/2023 9:45:56",
+            "name": "Jeet Mehta",
+            "age": 19,
+            "place": "Ghatkopar",
+            "phone": 9136253589,
+            "role": "Batsman",
+            "lastTeam": "Titanic Pirates",
+            "Photo": "https://drive.google.com/open?id=1VWkZISt9qHSGrxh1797egGNoO_7ODQBg"
+        }, {
+            "formno": 96,
+            "Timestamp": "8/7/2023 9:40:19",
+            "name": "Jigar Ashok Jota",
+            "age": 38,
+            "place": "Ghatkopar",
+            "phone": 9322164211,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Turtle",
+            "Photo": "https://drive.google.com/open?id=1SCAWPnwsGosp-Gqkx6E1DeZPK57WDH9q"
+        }, {
+            "formno": 97,
+            "Timestamp": "8/21/2023 19:46:48",
+            "name": "Jigar Shantilal Patwa",
+            "age": 31,
+            "place": "Ghatkopar",
+            "phone": 9833171030,
+            "role": "Bowler",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1EX0c2V0Ypr02rgn-lmOVUUFa5JZn__T2"
+        }, {
+            "formno": 98,
+            "Timestamp": "8/6/2023 21:42:36",
+            "name": "Jignesh Arvind Vora",
+            "age": 43,
+            "place": "Ghatkopar",
+            "phone": 9326123750,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1XYts5gnrPCrI30HpeQvtfTDOUu7amiMv"
+        }, {
+            "formno": 99,
+            "Timestamp": "8/18/2023 22:28:33",
+            "name": "JIGNESH KUBADIA",
+            "age": 40,
+            "place": "GHATKOPAR",
+            "phone": 9820035880,
+            "role": "Wicket - Keeper",
+            "lastTeam": "GHATKOPAR GLORIUS",
+            "Photo": "https://drive.google.com/open?id=11_heyH8foTYPyOWBwskhFx_O5kb5L7M9"
+        }, {
+            "formno": 100,
+            "Timestamp": "8/6/2023 19:04:19",
+            "name": "JINESH CHANDUBHAI VORA",
+            "age": 33,
+            "place": "DADAR",
+            "phone": 9773719434,
+            "role": "All - Rounder",
+            "lastTeam": "ABHINANDAN AVENGERS",
+            "Photo": "https://drive.google.com/open?id=10ZBq7-4_yQ8Kv14ZpS496PJfhxKGXioW"
+        }, {
+            "formno": 101,
+            "Timestamp": "8/17/2023 18:26:07",
+            "name": "Jitendra R Sanghavi",
+            "age": 45,
+            "place": "Malad",
+            "phone": 9833726205,
+            "role": "Batsman",
+            "lastTeam": "Sanghavi Smashers",
+            "Photo": "https://drive.google.com/open?id=1zvRNi98Nboog093rTegIHZY_gfmUgsSi"
+        }, {
+            "formno": 102,
+            "Timestamp": "8/6/2023 17:48:53",
+            "name": "Jugal Mehta",
+            "age": 21,
+            "place": "Malad",
+            "phone": 9773465399,
+            "role": "All - Rounder",
+            "lastTeam": "Malad youngstars",
+            "Photo": "https://drive.google.com/open?id=1uyKJaOvSWSHvGFRskUbbgo_JS7NaO6CF"
+        }, {
+            "formno": 103,
+            "Timestamp": "8/17/2023 18:43:44",
+            "name": "Kalpesh Mehta",
+            "age": 40,
+            "place": "Ghatkopar",
+            "phone": 9137864377,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Ghatkopar Glorious",
+            "Photo": "https://drive.google.com/open?id=1DJ7BKImePkvkTSf_mUGYXHMfdrlpYe05"
+        }, {
+            "formno": 104,
+            "Timestamp": "8/6/2023 18:36:48",
+            "name": "Kamal Kothari",
+            "age": 24,
+            "place": "Ghatkopar",
+            "phone": 9920997625,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar Kings",
+            "Photo": "https://drive.google.com/open?id=1Rw0iR60FI0GKytPMYS1u20F8mAnhj3uz"
+        }, {
+            "formno": 105,
+            "Timestamp": "8/6/2023 18:07:41",
+            "name": "Kamal vijay bhansali",
+            "age": 28,
+            "place": "Dadar",
+            "phone": 8080155999,
+            "role": "All - Rounder",
+            "lastTeam": "Concept capital",
+            "Photo": "https://drive.google.com/open?id=1uJDCwERWI9mHzpa6aoZuttdmyaBgG_Ts"
+        }, {
+            "formno": 106,
+            "Timestamp": "7/29/2023 16:16:41",
+            "name": "KAMLESH D KORADIYA",
+            "age": 48,
+            "place": "Malad",
+            "phone": 9821105396,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga United",
+            "Photo": "https://drive.google.com/open?id=1QV-lG3yyP_ZXreYdkll7GVtUVpXyAFkJ"
+        }, {
+            "formno": 107,
+            "Timestamp": "8/9/2023 5:33:27",
+            "name": "Karan gandhi",
+            "age": 32,
+            "place": "Chunabhatti",
+            "phone": 9819797968,
+            "role": "Wicket - Keeper",
+            "lastTeam": "JB BULLS",
+            "Photo": "https://drive.google.com/open?id=1RI87kHw0H_oARJAO5hhdYJXkRs8pNB1Y"
+        }, {
+            "formno": 108,
+            "Timestamp": "8/6/2023 18:26:15",
+            "name": "Karan Rajesh Kubadia",
+            "age": 30,
+            "place": "Ghatkopar",
+            "phone": 9664735281,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=1cEg9M3IjGYBSuCgLM4M7xsVnQ5scBq80"
+        }, {
+            "formno": 109,
+            "Timestamp": "8/6/2023 20:45:13",
+            "name": "Kartik shah",
+            "age": 19,
+            "place": "Dadar",
+            "phone": 9328514680,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar",
+            "Photo": "https://drive.google.com/open?id=1ry_IggA8MzZdl4qxP3J4Wfr7ZeMGEYmq"
+        }, {
+            "formno": 110,
+            "Timestamp": "8/7/2023 12:47:13",
+            "name": "KAUSHAL SHRENIK DOSHI",
+            "age": 31,
+            "place": "MATUNGA",
+            "phone": 7016126365,
+            "role": "Wicket - Keeper",
+            "lastTeam": "J B Bulls",
+            "Photo": "https://drive.google.com/open?id=1NtCKThSxWkuxLzaStvUVUiDRimj_wDhw"
+        }, {
+            "formno": 111,
+            "Timestamp": "8/6/2023 20:48:34",
+            "name": "Kavya Jignesh Kubadia",
+            "age": 16,
+            "place": "Malad",
+            "phone": 9326649469,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1nnDma7NvBbSO9JKe-sQ0hlkzedbd5S8j"
+        }, {
+            "formno": 112,
+            "Timestamp": "8/6/2023 19:02:50",
+            "name": "KETAN MOHANLAL BHANSALI",
+            "age": 43,
+            "place": "DADAR",
+            "phone": 9321613519,
+            "role": "All - Rounder",
+            "lastTeam": "DADAR BLUES",
+            "Photo": "https://drive.google.com/open?id=1wGUPPZvIyP9PVyesAjZwD_0eAdnFrsbq"
+        }, {
+            "formno": 113,
+            "Timestamp": "8/6/2023 18:05:06",
+            "name": "Kevin Kirti Mehta",
+            "age": 27,
+            "place": "Ghatkopar",
+            "phone": 7666141990,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar Kings",
+            "Photo": "https://drive.google.com/open?id=1m2_FtnreGv5j_kzN0v6UYY9hxJw4w0yQ"
+        }, {
+            "formno": 114,
+            "Timestamp": "8/6/2023 17:48:36",
+            "name": "Kiash bhavesh bhansali",
+            "age": 16,
+            "place": "Dadar west",
+            "phone": 8591047263,
+            "role": "Bowler",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1mhMHQ4LtD-yKUk4zAaJCq7UU7McWxuoj"
+        }, {
+            "formno": 115,
+            "Timestamp": "8/6/2023 20:53:32",
+            "name": "Kishor Raysi Sheth",
+            "age": 41,
+            "place": "GHATKOPAR",
+            "phone": 9820399635,
+            "role": "All - Rounder",
+            "lastTeam": "Rajwadi Royals",
+            "Photo": "https://drive.google.com/open?id=1-dFg3_XKekLVybXimDOtjiS6SalLJkEi"
+        }, {
+            "formno": 116,
+            "Timestamp": "8/7/2023 14:34:01",
+            "name": "Kiyush Mehta",
+            "age": 26,
+            "place": "Dombivali",
+            "phone": 9920067062,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar glorious",
+            "Photo": "https://drive.google.com/open?id=1rdqsNgUYSfeMA2kbB-ZeIEnjP0Q5wCDS"
+        }, {
+            "formno": 117,
+            "Timestamp": "8/6/2023 17:57:33",
+            "name": "Krish Sachin Mehta",
+            "age": 17,
+            "place": "Ghatkopar",
+            "phone": 7710007316,
+            "role": "Bowler",
+            "lastTeam": "Matunga United (champions)",
+            "Photo": "https://drive.google.com/open?id=1mT2SnnY9PqF7qYu1bSEONvcSX9e1BAUU"
+        }, {
+            "formno": 118,
+            "Timestamp": "8/6/2023 18:26:18",
+            "name": "Krunal Rajesh Kubadia",
+            "age": 30,
+            "place": "Ghatkopar",
+            "phone": 8097802018,
+            "role": "Bowler",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=18I3HZ00WkLw2JNxt77DlzyTMvhqvp-ni"
+        }, {
+            "formno": 119,
+            "Timestamp": "8/7/2023 23:02:59",
+            "name": "Kubadiya Jigar rameshbhai",
+            "age": 24,
+            "place": "Dadar",
+            "phone": 8689848694,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1iI_wUk712ucDMFgscMAjFdWnjCKwoqVd"
+        }, {
+            "formno": 120,
+            "Timestamp": "8/6/2023 18:06:50",
+            "name": "KUMAR patwa",
+            "age": 34,
+            "place": "Ghatkopar",
+            "phone": 8422019863,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar glourius",
+            "Photo": "https://drive.google.com/open?id=15rCzejWDmRJmUSP96oMaOK7qzpGXQsxZ"
+        }, {
+            "formno": 121,
+            "Timestamp": "8/6/2023 23:48:55",
+            "name": "Kunal manish mehta",
+            "age": 18,
+            "place": "Dadar",
+            "phone": 7021979257,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=10Z5zTG2RcTsj6bxzc6jLIz9rFXE_RXvt"
+        }, {
+            "formno": 122,
+            "Timestamp": "8/6/2023 17:59:24",
+            "name": "Lavya Deepak Puj",
+            "age": 17,
+            "place": "Malad",
+            "phone": 8591593918,
+            "role": "All - Rounder",
+            "lastTeam": "Royal Strikers",
+            "Photo": "https://drive.google.com/open?id=1HR9cuS6LgVlj_Tu6U26RElqh4S1klJ3c"
+        }, {
+            "formno": 123,
+            "Timestamp": "8/6/2023 18:13:50",
+            "name": "Manan Yatin Mehta",
+            "age": 16,
+            "place": "Dadar",
+            "phone": 9820589121,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=17gki76RvZBwBs9kb_ZvwUnXWlJNfZTo8"
+        }, {
+            "formno": 124,
+            "Timestamp": "8/6/2023 18:24:08",
+            "name": "Manish Dhirajlal Trevadia",
+            "age": 22,
+            "place": "Ghatkopar",
+            "phone": 8355912079,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1nqFJWgklQ0erXbHVgm8qSrpw1PgOgOvh"
+        }, {
+            "formno": 125,
+            "Timestamp": "8/6/2023 20:11:18",
+            "name": "Mayur vadilal Gandhi",
+            "age": 43,
+            "place": "Bhayandar",
+            "phone": 9326865117,
+            "role": "All - Rounder",
+            "lastTeam": "Dream crushers and JJ MOBILE",
+            "Photo": "https://drive.google.com/open?id=1FOQ1iCCT1QjhstRlIzAab_V8IXt-o7or"
+        }, {
+            "formno": 126,
+            "Timestamp": "8/6/2023 17:46:49",
+            "name": "Megh Trevadia",
+            "age": 17,
+            "place": "Ghatkopar",
+            "phone": 7710846499,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=1p3dO3G0TlC-y_QMs3RlN04GZUGpQOdTB"
+        }, {
+            "formno": 127,
+            "Timestamp": "8/6/2023 19:28:18",
+            "name": "Mihir prabhulal Gandhi",
+            "age": 21,
+            "place": "Dombivli",
+            "phone": 9326097175,
+            "role": "All - Rounder",
+            "lastTeam": "Dombivli youngsters",
+            "Photo": "https://drive.google.com/open?id=1FXXOHosFWTDWpiZ76zDHJB9D75AiXPgo"
+        }, {
+            "formno": 128,
+            "Timestamp": "8/17/2023 18:22:11",
+            "name": "Milan Anopchand Sheth",
+            "age": 25,
+            "place": "Dadar",
+            "phone": 9712318900,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1xf1_RvjDBMU_bKQ7uUS8mbhZVEg-iSQo"
+        }, {
+            "formno": 129,
+            "Timestamp": "8/14/2023 1:10:31",
+            "name": "Minit Jayendra Mehta",
+            "age": 25,
+            "place": "Malad",
+            "phone": 8655688162,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Kings",
+            "Photo": "https://drive.google.com/open?id=16sZLs5-4BpVc-8lWHDZ2mWFWBNIRgzYg"
+        }, {
+            "formno": 130,
+            "Timestamp": "8/16/2023 1:39:35",
+            "name": "Mitesh haresh mehta",
+            "age": 35,
+            "place": "Dadar",
+            "phone": 9323454797,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1PZZSFhGZaYr_vBpSoPsIq907O-pK9_CR"
+        }, {
+            "formno": 131,
+            "Timestamp": "8/6/2023 18:24:50",
+            "name": "Mitul sheth",
+            "age": 40,
+            "place": "Borivali",
+            "phone": 9773735503,
+            "role": "Batsman",
+            "lastTeam": "Matunga united",
+            "Photo": "https://drive.google.com/open?id=11pqAq1t4FwAURtS507hi2wXRS5CP2MuM"
+        }, {
+            "formno": 132,
+            "Timestamp": "8/6/2023 18:35:15",
+            "name": "Moksh Kubadia",
+            "age": 16,
+            "place": "Malad",
+            "phone": 9372805426,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1eBWqb4BEQ1TapRNQW2qphJ2bvLSSLJGm"
+        }, {
+            "formno": 133,
+            "Timestamp": "8/6/2023 20:48:08",
+            "name": "Moksh Mehta",
+            "age": 18,
+            "place": "Dadar",
+            "phone": 9137531982,
+            "role": "Batsman",
+            "lastTeam": "Matunga Samshers",
+            "Photo": "https://drive.google.com/open?id=1W2pyPRSl7wN95_70KJQcgBALa2lNi0ye"
+        }, {
+            "formno": 134,
+            "Timestamp": "8/6/2023 18:46:58",
+            "name": "Monal Parekh",
+            "age": 30,
+            "place": "Ghatkopar",
+            "phone": 7666835265,
+            "role": "Batsman & Wicket-Keeper",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=1w-uuFf96GsBd_YcDztbGyoVCu0PJ4B7p"
+        }, {
+            "formno": 135,
+            "Timestamp": "8/6/2023 18:36:30",
+            "name": "Monik dhirajlal gandhu",
+            "age": 30,
+            "place": "Dombivli",
+            "phone": 9029145912,
+            "role": "All - Rounder",
+            "lastTeam": "Dombivli youngster",
+            "Photo": "https://drive.google.com/open?id=1hso9jMpv-Dvl7Sx1tA9dpqqF9vNKYDAC"
+        }, {
+            "formno": 136,
+            "Timestamp": "8/7/2023 17:45:40",
+            "name": "Naitik Parekh",
+            "age": 26,
+            "place": "Ghatkopar",
+            "phone": 9372534085,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar glorious",
+            "Photo": "https://drive.google.com/open?id=13G4nhXeqXRT08CrgJaGBwu7o0Tlqkqvd"
+        }, {
+            "formno": 137,
+            "Timestamp": "8/7/2023 21:22:32",
+            "name": "Nilesh Trevadia",
+            "age": 41,
+            "place": "Dadar",
+            "phone": 8369696653,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1Ymu1vKW2GYMw_OGo30v_jOwzEApo35eH"
+        }, {
+            "formno": 138,
+            "Timestamp": "8/6/2023 17:53:22",
+            "name": "Nimesh Mehta",
+            "age": 24,
+            "place": "Dombivli",
+            "phone": 9892680013,
+            "role": "All - Rounder",
+            "lastTeam": "Sanghavi smashers",
+            "Photo": "https://drive.google.com/open?id=1Gf7K90uSq0eFFRhW8FpoRRjKhCx0a25a"
+        }, {
+            "formno": 139,
+            "Timestamp": "8/9/2023 20:25:32",
+            "name": "Nimesh Vora",
+            "age": 40,
+            "place": "Mulund",
+            "phone": 9664934205,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Mulund United",
+            "Photo": "https://drive.google.com/open?id=17NLeUO1AkuGneQtZkzbzhVtq6q2Glfqo"
+        }, {
+            "formno": 140,
+            "Timestamp": "8/7/2023 13:53:11",
+            "name": "Nimit Bhansali",
+            "age": 30,
+            "place": "Dadar",
+            "phone": 9322898464,
+            "role": "Batsman",
+            "lastTeam": "Dadar Royals",
+            "Photo": "https://drive.google.com/open?id=12lhmVvTG1aaYNrgz1m30JARbtwmDzO4m"
+        }, {
+            "formno": 141,
+            "Timestamp": "8/7/2023 14:45:42",
+            "name": "Niraj Navin Motharia",
+            "age": 26,
+            "place": "Ghatkopar",
+            "phone": 9821838336,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1nNAQUEAhO93eCLRatZs8jlXQEh_nODJn"
+        }, {
+            "formno": 142,
+            "Timestamp": "8/6/2023 19:34:37",
+            "name": "Nirav Satishbhai VARAIYA",
+            "age": 29,
+            "place": "Dadar",
+            "phone": 9757073412,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=10zx7bs_Mu1bZqzKeh8_Hvt5aM__lvQef"
+        }, {
+            "formno": 143,
+            "Timestamp": "8/6/2023 18:17:03",
+            "name": "Pakshal Kalpesh Mehta",
+            "age": 16,
+            "place": "Dadar",
+            "phone": 9313753507,
+            "role": "Bowler",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1VlT427TwOM-Swqe8Hq9mRroqb4koT2IL"
+        }, {
+            "formno": 144,
+            "Timestamp": "8/6/2023 18:51:32",
+            "name": "Palak Vinodkumar Mehta",
+            "age": 27,
+            "place": "Dadar",
+            "phone": 9870577278,
+            "role": "Batsman",
+            "lastTeam": "Dadar Blues",
+            "Photo": "https://drive.google.com/open?id=1LmJzxEATA6CIswDCtlCDJoPB4VNC61Ea"
+        }, {
+            "formno": 145,
+            "Timestamp": "8/7/2023 9:47:02",
+            "name": "Pankaj Mehta",
+            "age": 49,
+            "place": "Ghatkopar",
+            "phone": 9821323180,
+            "role": "Batsman",
+            "lastTeam": "Titanic Pirates",
+            "Photo": "https://drive.google.com/open?id=1pZuKRjTsG4Wl8Q_EFGpbd_8UhuK8eMoA"
+        }, {
+            "formno": 146,
+            "Timestamp": "8/6/2023 23:13:44",
+            "name": "Pankit Mehta",
+            "age": 25,
+            "place": "Dadar",
+            "phone": 8097350955,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar Blues",
+            "Photo": "https://drive.google.com/open?id=18IXz1XpqF2ZaIeGQbWxB9c_M8dajEQeq"
+        }, {
+            "formno": 147,
+            "Timestamp": "8/7/2023 22:34:08",
+            "name": "Paras Vora",
+            "age": 39,
+            "place": "Chunabhatti",
+            "phone": 9819684333,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti",
+            "Photo": "https://drive.google.com/open?id=1146ftYlGq1N4djHA1fxSerCiJH_FZudk"
+        }, {
+            "formno": 148,
+            "Timestamp": "8/6/2023 18:31:26",
+            "name": "Parth Kamlesh Koradiya",
+            "age": 17,
+            "place": "Malad",
+            "phone": 9004647620,
+            "role": "Batsman",
+            "lastTeam": "Matunga United",
+            "Photo": "https://drive.google.com/open?id=1NHYLhnLA5DzPKQJ0E7bqs5aGgg9fpExf"
+        }, {
+            "formno": 149,
+            "Timestamp": "8/6/2023 20:04:18",
+            "name": "Parth lodaria",
+            "age": 19,
+            "place": "Dadar",
+            "phone": 7045040401,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga smashers",
+            "Photo": "https://drive.google.com/open?id=1SjQ0uQ6O-2VDOdD4BpDmybR8K4UPb3Ek"
+        }, {
+            "formno": 150,
+            "Timestamp": "8/8/2023 17:33:49",
+            "name": "Pintu navinbhai patwa",
+            "age": 33,
+            "place": "Andheri west",
+            "phone": 9913465722,
+            "role": "All - Rounder",
+            "lastTeam": "Malad strikes",
+            "Photo": "https://drive.google.com/open?id=1DjuUCR6PKmF4W86stfMUdSPonvuR-dvt"
+        }, {
+            "formno": 151,
+            "Timestamp": "8/6/2023 22:09:47",
+            "name": "Piyush chandrakant mehta",
+            "age": 34,
+            "place": "Chunabhatti",
+            "phone": 9920934353,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti champions",
+            "Photo": "https://drive.google.com/open?id=1-iUlZVWQ1NwjRV5UmXL0291jisOIGT3K"
+        }, {
+            "formno": 152,
+            "Timestamp": "8/6/2023 23:46:16",
+            "name": "Piyush d koradiya",
+            "age": 53,
+            "place": "Bhaynder West",
+            "phone": 9773969396,
+            "role": "Bowler",
+            "lastTeam": "Malad strikers",
+            "Photo": "https://drive.google.com/open?id=1kVi8ILooGm6aXRAhZe57o_2BUBO_sU2o"
+        }, {
+            "formno": 153,
+            "Timestamp": "8/9/2023 11:59:59",
+            "name": "Prasham doshi",
+            "age": 23,
+            "place": "Ghatkopar",
+            "phone": 8828288885,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar kings",
+            "Photo": "https://drive.google.com/open?id=1x0h5BHt2V8Ayw1YzrBmLHUQb7JTvrM1x"
+        }, {
+            "formno": 154,
+            "Timestamp": "8/7/2023 23:32:25",
+            "name": "Prashant vora",
+            "age": 40,
+            "place": "Chunabhatthi",
+            "phone": 9869019618,
+            "role": "Batsman",
+            "lastTeam": "Chunabhatthi champions",
+            "Photo": "https://drive.google.com/open?id=1XFbIV4QkQ3E-3xLlIGeAuRsr38R64msT"
+        }, {
+            "formno": 155,
+            "Timestamp": "8/6/2023 19:32:06",
+            "name": "Pratham Kumar Patwa",
+            "age": 19,
+            "place": "Ghatkopar",
+            "phone": 9326678267,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=18LUtQOVhMcQyLNNLfD61Db4Xjo4SNFEE"
+        }, {
+            "formno": 156,
+            "Timestamp": "8/6/2023 18:14:56",
+            "name": "Pratik Ashok Kubadia",
+            "age": 29,
+            "place": "Dadar",
+            "phone": 9664161479,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar Warriors",
+            "Photo": "https://drive.google.com/open?id=1zxSXIGWmgDE62fsvbgKZqBpfEdTWNp3v"
+        }, {
+            "formno": 157,
+            "Timestamp": "8/15/2023 20:50:51",
+            "name": "Pratik J Mehta",
+            "age": 35,
+            "place": "Bhayander",
+            "phone": 9867389917,
+            "role": "Batsman",
+            "lastTeam": "Dream Crushers",
+            "Photo": "https://drive.google.com/open?id=1B5cOy86XrnNEoFwocnfObTgnSJr1sqn4"
+        }, {
+            "formno": 158,
+            "Timestamp": "8/6/2023 21:14:39",
+            "name": "PRATIK NANALAL VORA",
+            "age": 24,
+            "place": "MALAD",
+            "phone": 7303636949,
+            "role": "All - Rounder",
+            "lastTeam": "MALAD STRIKERS",
+            "Photo": "https://drive.google.com/open?id=1TcKNa2wFGROiVe22w8t9VRvJJRW54urG"
+        }, {
+            "formno": 159,
+            "Timestamp": "8/6/2023 19:02:00",
+            "name": "Pratik Vadilal Parekh",
+            "age": 28,
+            "place": "Ghatkopar",
+            "phone": 7718072725,
+            "role": "All - Rounder",
+            "lastTeam": "Diana",
+            "Photo": "https://drive.google.com/open?id=112LsHDRngB9YGnQMRyYrKLEHlbvHHz12"
+        }, {
+            "formno": 160,
+            "Timestamp": "8/8/2023 12:38:41",
+            "name": "Pratik vadilal vora",
+            "age": 38,
+            "place": "Chunabhatti",
+            "phone": 9022861727,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Rajvadi royals",
+            "Photo": "https://drive.google.com/open?id=15LiCwVvzGo5Zs3PjEg3_e_GQe1UAkNRn"
+        }, {
+            "formno": 161,
+            "Timestamp": "8/7/2023 12:36:01",
+            "name": "Pritul Amarchand Trevadia",
+            "age": 40,
+            "place": "Ghatkopar",
+            "phone": 9664991899,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar Glorious",
+            "Photo": "https://drive.google.com/open?id=1wCcdQmUY_e4zhWSPjso5bb2XfjxKm1bd"
+        }, {
+            "formno": 162,
+            "Timestamp": "8/6/2023 18:56:18",
+            "name": "Priyank kubadia",
+            "age": 25,
+            "place": "Dadar",
+            "phone": 8097959613,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga united",
+            "Photo": "https://drive.google.com/open?id=1ytmqD3NKbHj7v_gzuzO9NuH6U2OdZ0vd"
+        }, {
+            "formno": 163,
+            "Timestamp": "8/6/2023 19:43:07",
+            "name": "Priyank Puj",
+            "age": 28,
+            "place": "Malad",
+            "phone": 8082696245,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Marvellous malad",
+            "Photo": "https://drive.google.com/open?id=1uUoGmC2XGHLvTw3Rq9muhtKetmEC3uZH"
+        }, {
+            "formno": 164,
+            "Timestamp": "8/6/2023 18:29:33",
+            "name": "Pujan Kirtikumar Bhansali",
+            "age": 28,
+            "place": "Dadar",
+            "phone": 9323049252,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga United",
+            "Photo": "https://drive.google.com/open?id=1GWKB-wGkuhbMo8fopCmw7yzZWwywe5Z1"
+        }, {
+            "formno": 165,
+            "Timestamp": "8/6/2023 20:00:56",
+            "name": "Rahul Sanghvi",
+            "age": 36,
+            "place": "Ghatkopar",
+            "phone": 9870014198,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1dzulzjxBCZ12eOasZoMJdFAQsmj8Kdld"
+        }, {
+            "formno": 166,
+            "Timestamp": "8/6/2023 18:57:02",
+            "name": "Raj Indravadanbhai Gandhi",
+            "age": 24,
+            "place": "Dadar",
+            "phone": 9106561301,
+            "role": "Bowler",
+            "lastTeam": "Abhinandan Avenger",
+            "Photo": "https://drive.google.com/open?id=1cB2xCf64PIZnddiipIvZAiVrkDM0qS_V"
+        }, {
+            "formno": 167,
+            "Timestamp": "8/6/2023 18:03:32",
+            "name": "Raj Ketan Sanghavi",
+            "age": 18,
+            "place": "Borivali",
+            "phone": 9328936475,
+            "role": "Batsman",
+            "lastTeam": "Malad youngstars",
+            "Photo": "https://drive.google.com/open?id=1-IWOg7NXJeArbUaUU6YzSsTDTS7e9CAn"
+        }, {
+            "formno": 168,
+            "Timestamp": "8/7/2023 13:08:09",
+            "name": "raj narendra chandura",
+            "age": 30,
+            "place": "ghatkopar",
+            "phone": 7977877731,
+            "role": "All - Rounder",
+            "lastTeam": "ghatkopar glouries",
+            "Photo": "https://drive.google.com/open?id=1ysNFEMmGpGe-x3l3MQEMD3t-U-s7xOgu"
+        }, {
+            "formno": 169,
+            "Timestamp": "8/7/2023 17:47:04",
+            "name": "Raju Parekh",
+            "age": 31,
+            "place": "Ghatkopar",
+            "phone": 9137957998,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar glorious",
+            "Photo": "https://drive.google.com/open?id=1K7pUcLJHumSCkcBDyPAgJTuVlez-jMpy"
+        }, {
+            "formno": 170,
+            "Timestamp": "8/6/2023 21:53:02",
+            "name": "RINKU PRAVIN KUBADIA",
+            "age": 42,
+            "place": "Dadar",
+            "phone": 9821714133,
+            "role": "Batsman",
+            "lastTeam": "Skill up falcon",
+            "Photo": "https://drive.google.com/open?id=1uoANdByXWAYMlAleemo9SANqfMX3bMdz"
+        }, {
+            "formno": 171,
+            "Timestamp": "8/7/2023 10:27:01",
+            "name": "Rohan Gandhi",
+            "age": 21,
+            "place": "Dadar",
+            "phone": 9819760756,
+            "role": "All - Rounder",
+            "lastTeam": "Concept Capital",
+            "Photo": "https://drive.google.com/open?id=17cILx0nIl2Q2qSr0TVrWVY_YroVGv3dQ"
+        }, {
+            "formno": 172,
+            "Timestamp": "8/6/2023 22:22:21",
+            "name": "Rohit Ashok Sheth",
+            "age": 32,
+            "place": "Goregaon",
+            "phone": 9773164969,
+            "role": "Batsman",
+            "lastTeam": "Malad strikers",
+            "Photo": "https://drive.google.com/open?id=1w39535Ag4H1gwSkxYS71Zcjew7I2VyZV"
+        }, {
+            "formno": 173,
+            "Timestamp": "8/6/2023 23:39:42",
+            "name": "Rohit P Kubadiya",
+            "age": 38,
+            "place": "Marol",
+            "phone": 9833092974,
+            "role": "All - Rounder",
+            "lastTeam": "GHATKOPAR TURTLES",
+            "Photo": "https://drive.google.com/open?id=1Nj1vCsbJ4CrVVMib7itf-X8oXoGhW0lk"
+        }, {
+            "formno": 174,
+            "Timestamp": "8/15/2023 20:45:56",
+            "name": "Rupesh vora",
+            "age": 38,
+            "place": "Dadar",
+            "phone": 9321583043,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga united",
+            "Photo": "https://drive.google.com/open?id=1GciNKIX7wFXi8o-6FKbhcpyjpfPQ2OZd"
+        }, {
+            "formno": 175,
+            "Timestamp": "8/6/2023 13:00:21",
+            "name": "Rushabh K Koradiya",
+            "age": 21,
+            "place": "Malad",
+            "phone": 9136535854,
+            "role": "All - Rounder",
+            "lastTeam": "Malad Youngstars",
+            "Photo": "https://drive.google.com/open?id=1L6gaVLQLvP6TCNBYau8XRTDheV_b7mfp"
+        }, {
+            "formno": 176,
+            "Timestamp": "8/6/2023 18:31:19",
+            "name": "RUSHABH KIRTIKUMAR PUJ",
+            "age": 28,
+            "place": "Malad",
+            "phone": 9870821014,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Marvellous Malad",
+            "Photo": "https://drive.google.com/open?id=10olgYTyzctTWUsdlYfrhdvk7zBHmShww"
+        }, {
+            "formno": 177,
+            "Timestamp": "8/6/2023 21:45:23",
+            "name": "Rushabh mehta",
+            "age": 24,
+            "place": "Bhayander",
+            "phone": 7718951167,
+            "role": "All - Rounder",
+            "lastTeam": "Titanic pirates",
+            "Photo": "https://drive.google.com/open?id=1VppXbnlebjg4m6xKqti7gnHoczSm8Xfg"
+        }, {
+            "formno": 178,
+            "Timestamp": "8/19/2023 13:27:35",
+            "name": "Rushabh Ramesh Shah",
+            "age": 35,
+            "place": "Dadat",
+            "phone": 9757401050,
+            "role": "Batsman",
+            "lastTeam": "Dadar royal",
+            "Photo": "https://drive.google.com/open?id=1iwxGclAUftLqMAfTQeTh49w1cGtS-GxP"
+        }, {
+            "formno": 179,
+            "Timestamp": "8/7/2023 15:51:06",
+            "name": "Sachin Sheth",
+            "age": 34,
+            "place": "Matunga",
+            "phone": 9773628772,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga United",
+            "Photo": "https://drive.google.com/open?id=1RZgEbfAAXeEZNW-JSjTqfXc2YJiWn1Xu"
+        }, {
+            "formno": 180,
+            "Timestamp": "8/6/2023 18:55:19",
+            "name": "Saiyam Jitendra Kothari",
+            "age": 17,
+            "place": "Borivali East",
+            "phone": 9833500408,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1fZNU-R3fh6Lp-NVGz_digaj73sv_XAkI"
+        }, {
+            "formno": 181,
+            "Timestamp": "8/9/2023 12:21:31",
+            "name": "Saiyam vimal mehta",
+            "age": 22,
+            "place": "Dombivali",
+            "phone": 8286082506,
+            "role": "All - Rounder",
+            "lastTeam": "Dombivali Youngsters",
+            "Photo": "https://drive.google.com/open?id=1eirHr3neKxeSUjr60WFmZSv7JY_11Qfd"
+        }, {
+            "formno": 182,
+            "Timestamp": "8/7/2023 14:55:40",
+            "name": "SAMYAK JAY BHANSALI",
+            "age": 17,
+            "place": "DADAR",
+            "phone": 8928454655,
+            "role": "All - Rounder",
+            "lastTeam": "DADAR DECENT",
+            "Photo": "https://drive.google.com/open?id=1ymbMaWMA2MnLxxnnmDuoU4lSTRi8TS7U"
+        }, {
+            "formno": 183,
+            "Timestamp": "8/6/2023 17:46:43",
+            "name": "SANKKET PRAVINBHAI MORBIYA",
+            "age": 29,
+            "place": "Chunabhatti",
+            "phone": 7077678006,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1w6rGue7avgFhTHDYhvzZrsbZ9Q20eFSa"
+        }, {
+            "formno": 184,
+            "Timestamp": "8/6/2023 18:29:19",
+            "name": "SAUMYA ATUL SANGHAVI",
+            "age": 17,
+            "place": "Ghatkopar",
+            "phone": 7738531952,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1YcFbdOSO2XSWQN5HoL3JQu5qJY2qjsl2"
+        }, {
+            "formno": 185,
+            "Timestamp": "8/7/2023 20:31:53",
+            "name": "Saumya Kakrecha",
+            "age": 20,
+            "place": "Dadar",
+            "phone": 9825234169,
+            "role": "All - Rounder",
+            "lastTeam": "Sanghvi Smashers",
+            "Photo": "https://drive.google.com/open?id=176cJ_LV1OidSgx5T0lwFMAMPMvleFjqD"
+        }, {
+            "formno": 186,
+            "Timestamp": "8/6/2023 18:19:23",
+            "name": "Sayem Lalit Sanghavi",
+            "age": 19,
+            "place": "Ghatkopar",
+            "phone": 7208746562,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1fdqMrhONPUGmnStIqa_WGq3E4bYnHk_L"
+        }, {
+            "formno": 187,
+            "Timestamp": "8/6/2023 18:20:51",
+            "name": "Siddh Kishorbhai Sheth",
+            "age": 19,
+            "place": "Santacruz",
+            "phone": 9316646632,
+            "role": "Batsman",
+            "lastTeam": "Avaran And Kothari Kings",
+            "Photo": "https://drive.google.com/open?id=1zk-PsvoBZybZNe6r2v2cqu6udYOYCGbZ"
+        }, {
+            "formno": 188,
+            "Timestamp": "8/6/2023 18:28:06",
+            "name": "Siddhant Jayesh Gandhi",
+            "age": 19,
+            "place": "Malad",
+            "phone": 9082480552,
+            "role": "All - Rounder",
+            "lastTeam": "Kings 11 malad",
+            "Photo": "https://drive.google.com/open?id=1R6H0CtlsWjAPf2rGfkXPh9-64JqNvf2E"
+        }, {
+            "formno": 189,
+            "Timestamp": "8/7/2023 12:44:58",
+            "name": "Siddharth Jayesh Mehta",
+            "age": 30,
+            "place": "Dadar",
+            "phone": 9769119199,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar Royals",
+            "Photo": "https://drive.google.com/open?id=1Ht8lylZyf0v2J-RZ0AMXtIHmRo5ys-6p"
+        }, {
+            "formno": 190,
+            "Timestamp": "8/7/2023 10:16:19",
+            "name": "Smit Vikram Kubadia",
+            "age": 22,
+            "place": "Dadar west",
+            "phone": 9167641828,
+            "role": "Batsman",
+            "lastTeam": "Dadar Warriors",
+            "Photo": "https://drive.google.com/open?id=1ES2eVdd8qX0rGczjK3KfqHIQb1RBa5Jw"
+        }, {
+            "formno": 191,
+            "Timestamp": "8/6/2023 18:39:55",
+            "name": "Sneh Varaiya",
+            "age": 19,
+            "place": "Dadar",
+            "phone": 8356887047,
+            "role": "All - Rounder",
+            "lastTeam": "Success 11",
+            "Photo": "https://drive.google.com/open?id=1sIhfzI2mCKLObuVdv6sZ7iW5MJbhEucD"
+        }, {
+            "formno": 192,
+            "Timestamp": "8/6/2023 18:11:27",
+            "name": "Sohaan mehta (sonu Dilli)",
+            "age": 26,
+            "place": "Malad",
+            "phone": 9978565037,
+            "role": "All - Rounder",
+            "lastTeam": "Kings 11 Malad",
+            "Photo": "https://drive.google.com/open?id=1xuqW4oWWLO4WIrb92fYe5vENrOZX4rXV"
+        }, {
+            "formno": 193,
+            "Timestamp": "8/7/2023 12:47:24",
+            "name": "Somil Kubadiya",
+            "age": 31,
+            "place": "Ghatkopar",
+            "phone": 8898774658,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar kings",
+            "Photo": "https://drive.google.com/open?id=1FgNgN7WOjq37xaM6T7EZZPkAMmcEtH2G"
+        }, {
+            "formno": 194,
+            "Timestamp": "8/7/2023 0:52:39",
+            "name": "SUJAY MEHTA",
+            "age": 21,
+            "place": "MALAD",
+            "phone": 8460061400,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1NPgJmMl60sYJyxI2sitf3rGcdjRp0Gds"
+        }, {
+            "formno": 195,
+            "Timestamp": "8/6/2023 18:05:07",
+            "name": "Tanish Trevadia",
+            "age": 18,
+            "place": "Ghatkopar",
+            "phone": 9326683192,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar kings",
+            "Photo": "https://drive.google.com/open?id=1UW5VFFu6XxjfXwbaVtOArvFmrntxTYKD"
+        }, {
+            "formno": 196,
+            "Timestamp": "8/6/2023 17:51:35",
+            "name": "Tarun Chandrakant Mehta",
+            "age": 36,
+            "place": "Chunabhatti",
+            "phone": 8097369993,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1EeJukRjeVPuUDMiAGG4_LOdf0zhBKRB5"
+        }, {
+            "formno": 197,
+            "Timestamp": "8/15/2023 19:36:50",
+            "name": "Tatva Yogesh Mehta",
+            "age": 19,
+            "place": "Ghatkopar",
+            "phone": 9320894888,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1QMjJ9NKLBu3nOB7d9_EdI_c8hrFGV03K"
+        }, {
+            "formno": 198,
+            "Timestamp": "8/6/2023 23:07:27",
+            "name": "Tejas Kirit Vora",
+            "age": 34,
+            "place": "Dadar",
+            "phone": 9619589303,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1SC1GHfRpowvb4JAdmgpIIjUds1x77Uam"
+        }, {
+            "formno": 199,
+            "Timestamp": "8/6/2023 20:56:49",
+            "name": "Tejas pankaj vora",
+            "age": 32,
+            "place": "Dadar",
+            "phone": 9821557442,
+            "role": "All - Rounder",
+            "lastTeam": "Matunga united",
+            "Photo": "https://drive.google.com/open?id=1VatPAN3Z7iur-KNp150V_f0hc7DyodyD"
+        }, {
+            "formno": 200,
+            "Timestamp": "8/12/2023 23:18:09",
+            "name": "Tejas vasantlal mehta",
+            "age": 40,
+            "place": "Ghatkopar",
+            "phone": 9320088090,
+            "role": "Batsman",
+            "lastTeam": "Dianamic Diana",
+            "Photo": "https://drive.google.com/open?id=1vekXANcH6mBsM2j6ztb0ixqfO3T6_SPE"
+        }, {
+            "formno": 201,
+            "Timestamp": "8/15/2023 18:26:47",
+            "name": "Tirth Bhavesh Motharia",
+            "age": 20,
+            "place": "Ghatkopar",
+            "phone": 9653339138,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1GHL3keAhFZzZhG8Zwubmz86wTV04Qv9P"
+        }, {
+            "formno": 202,
+            "Timestamp": "8/6/2023 17:46:49",
+            "name": "Tirth Jignesh Vora",
+            "age": 18,
+            "place": "Ghatkopar",
+            "phone": 9324137012,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1W1OQXIyjNJtM8L6oRBe_nJi9HRiNxHli"
+        }, {
+            "formno": 203,
+            "Timestamp": "8/6/2023 18:44:55",
+            "name": "Trevadia Mokshesh",
+            "age": 26,
+            "place": "Malad",
+            "phone": 9870035664,
+            "role": "All - Rounder",
+            "lastTeam": "Marvellous Malad",
+            "Photo": "https://drive.google.com/open?id=16ETm-NCMl7rLVifiFwHdME7YZlPyuLYb"
+        }, {
+            "formno": 204,
+            "Timestamp": "8/7/2023 12:53:12",
+            "name": "TRILOK NITINBHAI PAREKH",
+            "age": 36,
+            "place": "Ghatkopar",
+            "phone": 9870918354,
+            "role": "All - Rounder",
+            "lastTeam": "GHATKOPAR glorious",
+            "Photo": "https://drive.google.com/open?id=1q0GvroBPDMlndFrSzyieXhujnqmJXoDs"
+        }, {
+            "formno": 205,
+            "Timestamp": "8/6/2023 18:35:12",
+            "name": "Tushar Ramesh Jarora",
+            "age": 30,
+            "place": "Dadar",
+            "phone": 9594702585,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar Royals",
+            "Photo": "https://drive.google.com/open?id=1dEytUYOYX8akrIh5h81pedmW1rQek-EO"
+        }, {
+            "formno": 206,
+            "Timestamp": "8/6/2023 18:57:42",
+            "name": "Umang suresh Trevadiya",
+            "age": 21,
+            "place": "Malad",
+            "phone": 8454919561,
+            "role": "All - Rounder",
+            "lastTeam": "Rajwadi royal",
+            "Photo": "https://drive.google.com/open?id=1jAcjfZU3PJmcEsO1CtqHhPeudjY_AC1Z"
+        }, {
+            "formno": 207,
+            "Timestamp": "8/6/2023 20:06:16",
+            "name": "Vaibhav Amadka",
+            "age": 32,
+            "place": "Malad",
+            "phone": 8898618686,
+            "role": "Batsman",
+            "lastTeam": "Marvellous malad",
+            "Photo": "https://drive.google.com/open?id=1LLBTQh_y98jdq0rqRFuEqFam8irXOu-W"
+        }, {
+            "formno": 208,
+            "Timestamp": "8/7/2023 16:18:01",
+            "name": "VAIBHAV ARVINDKUMAR VORA",
+            "age": 34,
+            "place": "MALAD",
+            "phone": 9819879227,
+            "role": "Wicket - Keeper",
+            "lastTeam": "KINGS XI MALAD",
+            "Photo": "https://drive.google.com/open?id=1BVi3KGjK9g7r9scJ8ZTCgUCt5mTp-fgS"
+        }, {
+            "formno": 209,
+            "Timestamp": "8/6/2023 18:30:36",
+            "name": "Vaibhav Suresh Sanghavi",
+            "age": 30,
+            "place": "Ghatkopar",
+            "phone": 9022765431,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar Turtles",
+            "Photo": "https://drive.google.com/open?id=1a2QClISFP0KwcBSjUyImczTF1nrfJh13"
+        }, {
+            "formno": 210,
+            "Timestamp": "8/9/2023 10:53:36",
+            "name": "Vaibhav vasant sanghavi",
+            "age": "38",
+            "place": "Malad",
+            "phone": 8689866622,
+            "role": "All - Rounder",
+            "lastTeam": "Marvelous Malad",
+            "Photo": "https://drive.google.com/open?id=15J43Bbs6TLFHdP4Kku0dPsuEtq43_REZ"
+        }, {
+            "formno": 211,
+            "Timestamp": "8/6/2023 19:58:23",
+            "name": "VEER KALPESH MEHTA",
+            "age": 17,
+            "place": "DADAR",
+            "phone": 9076399175,
+            "role": "Batsman",
+            "lastTeam": "DEBUT",
+            "Photo": "https://drive.google.com/open?id=1ZkvfRgJep_Xuxi2K7kpNvLBiFR4d2JzC"
+        }, {
+            "formno": 212,
+            "Timestamp": "8/7/2023 14:02:25",
+            "name": "Veer Kubadiya",
+            "age": 18,
+            "place": "Dadar",
+            "phone": 9967084587,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=106vV6uRS-r5wilJyAv6NnatVWCjZk9ZJ"
+        }, {
+            "formno": 213,
+            "Timestamp": "8/6/2023 18:59:28",
+            "name": "VIDISH MEHTA",
+            "age": 34,
+            "place": "Dadar",
+            "phone": 9920248390,
+            "role": "All - Rounder",
+            "lastTeam": "Dadar Royals",
+            "Photo": "https://drive.google.com/open?id=1MSPMBwpzC5W-dGRrKzJivIX-_5vU8FT-"
+        }, {
+            "formno": 214,
+            "Timestamp": "8/6/2023 17:53:52",
+            "name": "Vijay Amadka",
+            "age": 37,
+            "place": "Malad",
+            "phone": 9833250061,
+            "role": "All - Rounder",
+            "lastTeam": "Kings Xl Malad",
+            "Photo": "https://drive.google.com/open?id=1RQgWjyEFzI1iucHzHKyn2z5Vtdv9tXDP"
+        }, {
+            "formno": 215,
+            "Timestamp": "8/6/2023 20:34:11",
+            "name": "Vijesh Khandor",
+            "age": 33,
+            "place": "Matunga",
+            "phone": 9930009757,
+            "role": "All - Rounder",
+            "lastTeam": "Panicky Tigers",
+            "Photo": "https://drive.google.com/open?id=14pkNiHu3ImqxjyZgiFMjjcK3xF2yNH1n"
+        }, {
+            "formno": 216,
+            "Timestamp": "8/9/2023 12:51:42",
+            "name": "Vijesh Gandhi",
+            "age": 37,
+            "place": "Chunabhatti",
+            "phone": 9920867906,
+            "role": "All - Rounder",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1TtsQa3-lsnbb3NsqfWECmkdDkxzJrMYw"
+        }, {
+            "formno": 217,
+            "Timestamp": "8/17/2023 18:24:48",
+            "name": "Vimal Anopchand Sheth",
+            "age": 24,
+            "place": "Dadar",
+            "phone": 8355962894,
+            "role": "Batsman",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1tzkgCFdycw6mvaYUCMqi64BgS8t5JL0q"
+        }, {
+            "formno": 218,
+            "Timestamp": "8/6/2023 18:14:52",
+            "name": "Vinit vijay sanghvi",
+            "age": 25,
+            "place": "Malad",
+            "phone": 7208504979,
+            "role": "All - Rounder",
+            "lastTeam": "Skill up falcons",
+            "Photo": "https://drive.google.com/open?id=1UdS4N51dRiNqCvNvOf_sZf4280hlePft"
+        }, {
+            "formno": 219,
+            "Timestamp": "8/15/2023 18:05:47",
+            "name": "VIPUL C PAREKH",
+            "age": 43,
+            "place": "Ghatkopar",
+            "phone": 9930277901,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar Glorious",
+            "Photo": "https://drive.google.com/open?id=18FPEd_wWrJzov7zG-fto_IXy8cyklzcn"
+        }, {
+            "formno": 220,
+            "Timestamp": "8/6/2023 21:57:54",
+            "name": "Vipul parekh",
+            "age": 37,
+            "place": "Bhandup",
+            "phone": 9867445209,
+            "role": "Batsman",
+            "lastTeam": "Ghatkopar glorious",
+            "Photo": "https://drive.google.com/open?id=1eMbK_Digc1ZUW1i8eELLGk1oUpITbwjJ"
+        }, {
+            "formno": 221,
+            "Timestamp": "8/13/2023 21:47:28",
+            "name": "Vipul sanghvi",
+            "age": 40,
+            "place": "Ghatkopar West",
+            "phone": 9870644650,
+            "role": "Batsman",
+            "lastTeam": "Yok worriors",
+            "Photo": "https://drive.google.com/open?id=1_uplLO135mWgv_MlWtWMJcjcuIH6MVlZ"
+        }, {
+            "formno": 222,
+            "Timestamp": "8/6/2023 17:49:40",
+            "name": "Virag Mehta",
+            "age": 19,
+            "place": "Dadar",
+            "phone": 8850328983,
+            "role": "Bowler",
+            "lastTeam": "Matunga smshers",
+            "Photo": "https://drive.google.com/open?id=1fiTTzjG-FDggmYJBFsbXOLzdQX_JGknI"
+        }, {
+            "formno": 223,
+            "Timestamp": "8/6/2023 18:40:04",
+            "name": "Virag Viresh Trevadia",
+            "age": 19,
+            "place": "Dadar West",
+            "phone": 8591417144,
+            "role": "All - Rounder",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=1RCrjicY_3xmhfdKx9IHYJoxTAt6plJPo"
+        }, {
+            "formno": 224,
+            "Timestamp": "8/6/2023 18:07:34",
+            "name": "VIRAL ANIL TREVADIA",
+            "age": 35,
+            "place": "Dadar",
+            "phone": 9869507396,
+            "role": "All - Rounder",
+            "lastTeam": "Abhinandan avengers",
+            "Photo": "https://drive.google.com/open?id=1J42LqvaYclwOqg3xDAsoANRm0QE04BzL"
+        }, {
+            "formno": 225,
+            "Timestamp": "8/6/2023 18:11:22",
+            "name": "Viral Navneet kubadia",
+            "age": 37,
+            "place": "Dadar",
+            "phone": 9867855985,
+            "role": "All - Rounder",
+            "lastTeam": "Royals dadar",
+            "Photo": "https://drive.google.com/open?id=14JutbnBnHdVFTTDBctsmWG4zmQA6n7le"
+        }, {
+            "formno": 226,
+            "Timestamp": "8/6/2023 22:37:20",
+            "name": "Viral Nitinbhai Trevadia",
+            "age": 24,
+            "place": "Malad",
+            "phone": 8450994272,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar kings",
+            "Photo": "https://drive.google.com/open?id=1tQ66Jz6nNa2ATcHlKRXlU6Q9zktWQn8n"
+        }, {
+            "formno": 227,
+            "Timestamp": "8/6/2023 18:16:15",
+            "name": "Viral parekh",
+            "age": 39,
+            "place": "Ghatkopar",
+            "phone": 8169600445,
+            "role": "All - Rounder",
+            "lastTeam": "Ghatkopar glorious",
+            "Photo": "https://drive.google.com/open?id=19ytjwM-b5-_3BmpIxQHfBm4BC_oRlfGC"
+        }, {
+            "formno": 228,
+            "Timestamp": "8/6/2023 18:11:05",
+            "name": "VIRAL RAVIBHAI PUJ",
+            "age": 33,
+            "place": "GHATKOPAR",
+            "phone": 8689999916,
+            "role": "All - Rounder",
+            "lastTeam": "GHATKOPAR KINGS",
+            "Photo": "https://drive.google.com/open?id=1M6y1q4N2iqsqmZJXE9EXSAN00FZu_6hi"
+        }, {
+            "formno": 229,
+            "Timestamp": "8/6/2023 21:02:54",
+            "name": "Virang Parekh",
+            "age": 21,
+            "place": "Bhandup",
+            "phone": 7039200977,
+            "role": "All - Rounder",
+            "lastTeam": "Skill Up Falcons",
+            "Photo": "https://drive.google.com/open?id=1GqYj-uoSzbCJm6Us8kC3Cbwa8K_aKb-w"
+        }, {
+            "formno": 230,
+            "Timestamp": "8/6/2023 18:28:50",
+            "name": "Virang Paresh Gandhi",
+            "age": 19,
+            "place": "Malad",
+            "phone": 8879113129,
+            "role": "All - Rounder",
+            "lastTeam": "Marvellous Malad",
+            "Photo": "https://drive.google.com/open?id=143WWwsDW_21MMp-6lMb8ShSFFTMF_4do"
+        }, {
+            "formno": 231,
+            "Timestamp": "8/7/2023 10:05:07",
+            "name": "Vishal Arvind Sheth",
+            "age": 36,
+            "place": "Matunga",
+            "phone": 9820097007,
+            "role": "Batsman",
+            "lastTeam": "Matunga United",
+            "Photo": "https://drive.google.com/open?id=17wakDneFVKjkjrnKQ1ZDeBgjKD0LJG02"
+        }, {
+            "formno": 232,
+            "Timestamp": "8/6/2023 21:59:01",
+            "name": "Vivek Vora",
+            "age": 21,
+            "place": "Chunabhatti",
+            "phone": 9137953091,
+            "role": "Batsman",
+            "lastTeam": "Chunabhatti Champions",
+            "Photo": "https://drive.google.com/open?id=1XfTmQQ41vgE8-_OP4xsAO28w-uyziKeL"
+        }, {
+            "formno": 233,
+            "Timestamp": "8/6/2023 20:59:17",
+            "name": "Yash Jaysukh Mehta",
+            "age": 22,
+            "place": "Malad",
+            "phone": 9082271502,
+            "role": "All - Rounder",
+            "lastTeam": "Malad Youngstars",
+            "Photo": "https://drive.google.com/open?id=19Y3eejr6-qKVGE_1EbmdSdgsdnZPLGwU"
+        }, {
+            "formno": 234,
+            "Timestamp": "8/6/2023 21:34:39",
+            "name": "Yash Sanghvi",
+            "age": 26,
+            "place": "Dadar",
+            "phone": 8460124400,
+            "role": "All - Rounder",
+            "lastTeam": "Jb bulls",
+            "Photo": "https://drive.google.com/open?id=1EfMByJe2OizvCxexJqsEeHmryq9DIDZy"
+        }, {
+            "formno": 235,
+            "Timestamp": "8/6/2023 18:18:40",
+            "name": "Yash Vijay Sanghvi",
+            "age": 19,
+            "place": "Malad",
+            "phone": 9321270960,
+            "role": "All - Rounder",
+            "lastTeam": "Malad youngsters",
+            "Photo": "https://drive.google.com/open?id=1Umo6v32BFFbtBrdvMgbxiwwtjIc4LW5K"
+        }, {
+            "formno": 236,
+            "Timestamp": "8/6/2023 18:08:51",
+            "name": "Yashank kirit kubadia",
+            "age": 29,
+            "place": "DADAR",
+            "phone": 9773298536,
+            "role": "Wicket - Keeper",
+            "lastTeam": "Debut",
+            "Photo": "https://drive.google.com/open?id=142YdW5Q-WntERypuJK5yS2eViSjGNUbQ"
+        }, {
+            "formno": 237,
+            "Timestamp": "",
+            "name": "Akshay Amit Sanghvi",
+            "age": 27,
+            "place": "Dadar",
+            "phone": 8082535210,
+            "role": "All - Rounder",
+            "lastTeam": "Abhinandan avengers",
+            "Photo": "https://drive.google.com/open?id=1nVgnIdE2KvoMWZzOciMnKaBb6Tj8ntxq"
+        }, {
+            "formno": 238,
+            "Timestamp": "",
+            "name": "Meet Vora",
+            "age": 23,
+            "place": "Malad",
+            "phone": 9769492824,
+            "role": "All - Rounder",
+            "lastTeam": "Marvellous malad",
+            "Photo": "https://drive.google.com/open?id=17D1V6cjWS-XugisxK1K8nyIcq5aMsV_R"
         }
     ],
     "teams": [
         {
-            "id": "DhairyaDhurandar",
-            "name": "Dhairya Dhurandar"
+            "id": "DianamicDiana",
+            "name": "Dyanamic Diana",
+            "style": "background:linear-gradient(143.7deg,#fcca06 0,#f25c19 100%);"
         },
         {
-            "id": "DynamicDaina",
-            "name": "Dynamic Daina"
+            "id": "DhairyaDemons",
+            "name": "Dhairyya Demons",
+            "style": "background: linear-gradient(143.7deg,#1c1c1c 0,#0b4973 100%)"
+            
         },
         {
-            "id": "AbhinandanAvengers",
-            "name": "Abhinandan Avengers"
+            "id": "RajwadiRoyals",
+            "name": "Rajwadi Royals",
+            "style": "background: linear-gradient(180deg,#0078bc 0,#17479e 100%);"
         },
         {
-            "id": "ConceptCapital",
-            "name": "Concept Capital"
+            "id": "AbhinandanCeremony",
+            "name": "Abhinandan & Ceremony",
+            "style": "background: linear-gradient(143.7deg,#3b215d 0,#552792 100%)"
         },
         {
-            "id": "PanickyTigers",
-            "name": "Panicky Tigers"
-        },
-        {
-            "id": "ParekhPanthers",
-            "name": "Parekh Panthers"
-        },
-        {
-            "id": "SweetHeart",
-            "name": "Sweet Heart"
-        },
-        {
-            "id": "SamkitNidhiSmashers",
-            "name": "Samkit Nidhi Smashers"
-        },
-        {
-            "id": "VaraiyaVictory",
-            "name": "Varaiya Victory"
+            "id": "RFSKothariKings",
+            "name": "RFS & Kothari Kings",
+            "style": "background: linear-gradient(180deg,#C33764 0,#1D2671 100%)"
         },
         {
             "id": "YokeWarriors",
-            "name": "Yoke Warriors"
+            "name": "Yoke Warriors",
+            "style": "background: linear-gradient(143.7deg,#006cb7 0,#003b7a 100%)"
         },
         {
-            "id": "Dadar Superstars",
-            "name": "Dadar Superstars"
+            "id": "FoxConcept",
+            "name": "Fox & Concept XI",
+            "style": "background: linear-gradient(143.7deg,#d71920 0,#84171b 100%)"
+        },
+        {
+            "id": "AmazingArihant",
+            "name": "Amazing Arihant",
+            "style": "background: linear-gradient(143.7deg,#ea1a85 0,#001d48 100%)"
+        },
+        {
+            "id": "PakshalPlayers",
+            "name": "Pakshal Players",
+            "style": "background: linear-gradient(143.7deg,#6a6a6a 0,#1c1c1c 100%)"
+        },
+        {
+            "id": "SanghaviSmashers",
+            "name": "Sanghavi Smashers",
+            "style": "background: linear-gradient(180deg,#f26522 0,#ed1a37 100%)"
+        },
+        {
+            "id": "TitanicPirates",
+            "name": "Titanic Pirates",
+            "style": "background: linear-gradient(180deg,#D4145A 0,#FBB03B 100%)"
+        },
+        {
+            "id": "SonalSejalSmashers",
+            "name": "Sonal Sejal Smashers",
+            "style": "background: linear-gradient(180deg,#a72056 0,#fc0 100%)"
+        },
+        {
+            "id": "PanickyTigers",
+            "name": "Panicky Tigers",
+            "style": "background: linear-gradient(360deg,#009245 0,#FCEE21 100%)"
+        },
+        {
+            "id": "KalapurnamGhee",
+            "name": "Kalapurna Ghee XI",
+            "style": "background: linear-gradient(180deg,#868F96 0,#596164 100%)"
         }
     ]
 }
