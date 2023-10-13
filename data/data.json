@@ -1593,12 +1593,12 @@
         }, {
             "formno": 160,
             "Timestamp": "8/8/2023 12:38:41",
-            "name": "Pratik vadilal vora",
-            "age": 38,
-            "place": "Chunabhatti",
-            "phone": 9022861727,
-            "role": "Wicket - Keeper",
-            "lastTeam": "Rajvadi royals",
+            "name": "Tirth Sanghavi",
+            "age": 18,
+            "place": "Malad",
+            "phone": 9833726205,
+            "role": "Batsman",
+            "lastTeam": "Sanghavi Smashers",
             "Photo": "https://drive.google.com/open?id=15LiCwVvzGo5Zs3PjEg3_e_GQe1UAkNRn"
         }, {
             "formno": 161,
@@ -2384,6 +2384,46 @@
     ],
     "teams": [
         {
+            "id": "SanghaviSmashers",
+            "name": "Sanghavi Smashers",
+            "style": "background: linear-gradient(180deg,#f26522 0,#ed1a37 100%)"
+        },
+        {
+            "id": "KalapurnamGhee",
+            "name": "Kalapurna Ghee XI",
+            "style": "background: linear-gradient(180deg,#868F96 0,#596164 100%)"
+        },
+        {
+            "id": "TitanicPirates",
+            "name": "Titanic Pirates",
+            "style": "background: linear-gradient(180deg,#D4145A 0,#FBB03B 100%)"
+        },
+        {
+            "id": "AmazingArihant",
+            "name": "Amazing Arihant",
+            "style": "background: linear-gradient(143.7deg,#ea1a85 0,#001d48 100%)"
+        },
+        {
+            "id": "AbhinandanCeremony",
+            "name": "Abhinandan & Ceremony",
+            "style": "background: linear-gradient(143.7deg,#3b215d 0,#552792 100%)"
+        },
+        {
+            "id": "PakshalPlayers",
+            "name": "Pakshal Players",
+            "style": "background: linear-gradient(143.7deg,#6a6a6a 0,#1c1c1c 100%)"
+        },
+        {
+            "id": "RajwadiRoyals",
+            "name": "Rajwadi Royals",
+            "style": "background: linear-gradient(180deg,#0078bc 0,#17479e 100%);"
+        },
+        {
+            "id": "SonalSejalSmashers",
+            "name": "Sonal Sejal Smashers",
+            "style": "background: linear-gradient(180deg,#a72056 0,#fc0 100%)"
+        },
+        {
             "id": "DianamicDiana",
             "name": "Dyanamic Diana",
             "style": "background:linear-gradient(143.7deg,#fcca06 0,#f25c19 100%);"
@@ -2392,17 +2432,16 @@
             "id": "DhairyaDemons",
             "name": "Dhairyya Demons",
             "style": "background: linear-gradient(143.7deg,#1c1c1c 0,#0b4973 100%)"
-            
         },
         {
-            "id": "RajwadiRoyals",
-            "name": "Rajwadi Royals",
-            "style": "background: linear-gradient(180deg,#0078bc 0,#17479e 100%);"
+            "id": "PanickyTigers",
+            "name": "Panicky Tigers",
+            "style": "background: linear-gradient(360deg,#009245 0,#FCEE21 100%)"
         },
         {
-            "id": "AbhinandanCeremony",
-            "name": "Abhinandan & Ceremony",
-            "style": "background: linear-gradient(143.7deg,#3b215d 0,#552792 100%)"
+            "id": "FoxConcept",
+            "name": "Fox & Concept XI",
+            "style": "background: linear-gradient(143.7deg,#d71920 0,#84171b 100%)"
         },
         {
             "id": "RFSKothariKings",
@@ -2413,46 +2452,6 @@
             "id": "YokeWarriors",
             "name": "Yoke Warriors",
             "style": "background: linear-gradient(143.7deg,#006cb7 0,#003b7a 100%)"
-        },
-        {
-            "id": "FoxConcept",
-            "name": "Fox & Concept XI",
-            "style": "background: linear-gradient(143.7deg,#d71920 0,#84171b 100%)"
-        },
-        {
-            "id": "AmazingArihant",
-            "name": "Amazing Arihant",
-            "style": "background: linear-gradient(143.7deg,#ea1a85 0,#001d48 100%)"
-        },
-        {
-            "id": "PakshalPlayers",
-            "name": "Pakshal Players",
-            "style": "background: linear-gradient(143.7deg,#6a6a6a 0,#1c1c1c 100%)"
-        },
-        {
-            "id": "SanghaviSmashers",
-            "name": "Sanghavi Smashers",
-            "style": "background: linear-gradient(180deg,#f26522 0,#ed1a37 100%)"
-        },
-        {
-            "id": "TitanicPirates",
-            "name": "Titanic Pirates",
-            "style": "background: linear-gradient(180deg,#D4145A 0,#FBB03B 100%)"
-        },
-        {
-            "id": "SonalSejalSmashers",
-            "name": "Sonal Sejal Smashers",
-            "style": "background: linear-gradient(180deg,#a72056 0,#fc0 100%)"
-        },
-        {
-            "id": "PanickyTigers",
-            "name": "Panicky Tigers",
-            "style": "background: linear-gradient(360deg,#009245 0,#FCEE21 100%)"
-        },
-        {
-            "id": "KalapurnamGhee",
-            "name": "Kalapurna Ghee XI",
-            "style": "background: linear-gradient(180deg,#868F96 0,#596164 100%)"
         }
     ]
 }
